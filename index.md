@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 
-My name is **Yiming Gan (甘一鸣)**. I'm currently an assistant professor at Institute of Computing Technologies, Chinese Academy of Sciences. Before joining ICT, CAS, I gained my PhD degree from [CS Department, University of Rochester](https://www.cs.rochester.edu/). My PhD advisor is [Professor Yuhao Zhu](https://yuhaozhu.com/). 
+My name is **Yiming Gan (甘一鸣)**. I'm currently an assistant professor at Institute of Computing Technologies, Chinese Academy of Sciences. Before joining ICT, CAS, I received my PhD degree from [CS Department, University of Rochester](https://www.cs.rochester.edu/) in 2023. My PhD advisor is [Professor Yuhao Zhu](https://yuhaozhu.com/). 
 
 I do research in computer architecture, with emphasis on autonomous machines, including robots, autonomous vehicles and drones. I believe this is an exciting domain which may fundamentally change people's life. [**Research**](https://Gyiming.github.io) has more to offer. 
 
