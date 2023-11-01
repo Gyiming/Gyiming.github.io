@@ -1,54 +1,23 @@
 ---
 layout: page
 permalink: /prostu/index.html
-title: Hobbies
+title: Prospective Students
 ---
 
-# Hobbies
+Some of my mentoring philosophy is coming from [my advisor](https://yuhaozhu.com/prospective.html). It works well between me and him and I hope it will work out on us. Generally, I am looking for students that are self-motivated, love to explore new things and love to code their findings into real systems. The ideal mentoring in my mind should be interactive. I can help you from what I know and you can expand me from what you know. I believe a good teacher should learn from his students and a good student should teach his advisors. 
 
-## Teaching & Workshops
+---
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+## What are we looking for?
 
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
+We welcome students with a diverse background even if your formative education does not involve extensive programming. We welcome students from areas such as physics, math, automation to apply our program. It would be helpful if you are experienced in one or multiple of the following skills:
 
+- Solid programming skills (Python, C++)
+- Computer systems (e.g., computer architecture basics, FPGA experiences, compiler techniques, programming language design)
+- Robotic applications (e.g., localization, planning and control)
+- Computer vision (deep learning, reinforcement learning, foundation model)
+- Engineering math (Signal processing, dynamic systems, sparsity and compression, matrix method, optimizatio)
 
-
-## Swimming & Surfing
-
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
-</div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my swimming career. Recently, I am also keen on surfing.
-
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-This is my love. Her name is Qbo (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+I encourage you to go over our [research interests](https://Gyiming.github.io/research) and send me an email. I encourage you to explain why your interests align with ours and how you can contribute. 
 <!-- Calendly inline widget end -->
 

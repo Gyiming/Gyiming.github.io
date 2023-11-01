@@ -7,9 +7,9 @@ layout: page
 
 My name is **Yiming Gan (甘一鸣)**. I'm currently an assistant professor at Institute of Computing Technologies, Chinese Academy of Sciences. Before joining ICT, CAS, I received my PhD degree from [CS Department, University of Rochester](https://www.cs.rochester.edu/) in 2023. My PhD advisor is [Professor Yuhao Zhu](https://yuhaozhu.com/). 
 
-I do research in computer architecture, with emphasis on autonomous machines, including robots, autonomous vehicles and drones. I believe this is an exciting domain which may fundamentally change people's life. [**Research**](https://Gyiming.github.io) has more to offer. 
+I do research in computer architecture, with emphasis on autonomous machines, including robots, autonomous vehicles and drones. I believe this is an exciting domain which may fundamentally change people's life. [**Research**](https://Gyiming.github.io/research) has more to offer. 
 
-I always have openings for students. If you love to do research in building better software and hardware for next generation robots, and know how to program, send me an email at: ganyiming@ict.ac.cn. [**Prospective Students**](https://Gyiming.github.io) has more to offer. 
+I always have openings for students. If you love to do research in building better software and hardware for next generation robots, and know how to program, send me an email at: ganyiming@ict.ac.cn. [**Prospective Students**](https://Gyiming.github.io/prostu) has more to offer. 
 
 <br>
 
@@ -33,7 +33,7 @@ I always have openings for students. If you love to do research in building bett
 - [Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines](https://gyiming.github.io/file/hpca2021.pdf)<br>**Yiming Gan** , Bo Yu, Boyuan Tian, Leimeng Xu, Wei Hu, Shaoshan Liu, Qiang Liu, Yanjun Zhang, Jie Tang and Yuhao Zhu.<br>27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)<br>
 - [BRAUM: Analyzing and Protecting Autonomous Machine Software Stack](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>**Yiming Gan**, Paul Whatmough, Jingwen Leng, Bo Yu, Shaoshan Liu, Yuhao Zhu.<br>33rd IEEE International Symposium on Software Reliability Engineering (ISSRE-22)<br>
 - [Thales: Formulating and Estimating Architectural Vulnerability Factor for DNN Accelerators](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Abhishek Tyagi, **Yiming Gan**, Shaoshan Liu, Bo Yu, Paul Whatmough, Yuhao Zhu.<br>29th IEEE International Symposium on High-Performance Computer Architecture (HPCA-29)<br>
-- [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao*, **Yiming Gan***, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br>60th Design Automation Conference (DAC)<br>
+- [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao, **Yiming Gan**, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br>60th Design Automation Conference (DAC)<br>
 
 See [**Publication**](https://Gyiming.github.io/publications) for full list. 
 
