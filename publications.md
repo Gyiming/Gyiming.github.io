@@ -39,6 +39,8 @@ title: Publications
 
 - [Thales: Formulating and Estimating Architectural Vulnerability Factor for DNN Accelerators](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Abhishek Tyagi, **Yiming Gan**, Shaoshan Liu, Bo Yu, Paul Whatmough, Yuhao Zhu.<br>29th IEEE International Symposium on High-Performance Computer Architecture (HPCA-29)<br>
 
+- [VPP: The Vulnerability-Proportional Protection Paradigm Towards Reliable Autonomous Machines]()<br>Zishen Wan, **Yiming Gan**,  Bo Yu, Arijit Raychowdhury, Yuhao Zhu<br> ISCA 2023 workshop, 5th Domain Specific System Architecture (DOSSA-5)<br>
+
   <br>
 
 ---
