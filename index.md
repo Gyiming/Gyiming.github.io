@@ -8,9 +8,9 @@ layout: page
 
 My name is **Yiming Gan (甘一鸣)**. I'm currently an assistant professor at Institute of Computing Technologies, Chinese Academy of Sciences. Before joining ICT, CAS, I gained my PhD degree from [CS Department, University of Rochester](https://www.cs.rochester.edu/). My PhD advisor is [Professor Yuhao Zhu](https://yuhaozhu.com/). 
 
-I do research in computer architecture, with emphasis on autonomous machines, including robots, autonomous vehicles and drones. I believe this is an exciting domain which may fundamentally change people's life. My [**research page**](https://Gyiming.github.io) has more to offer. 
+I do research in computer architecture, with emphasis on autonomous machines, including robots, autonomous vehicles and drones. I believe this is an exciting domain which may fundamentally change people's life. [**Research**](https://Gyiming.github.io) has more to offer. 
 
-I always have openings for students. If you love to do research in building better software and hardware for next generation robots, and know how to program, send me an email at: ganyiming@ict.ac.cn. [**Potential Students**](https://Gyiming.github.io) has more to offer. 
+I always have openings for students. If you love to do research in building better software and hardware for next generation robots, and know how to program, send me an email at: ganyiming@ict.ac.cn. [**Prospective Students**](https://Gyiming.github.io) has more to offer. 
 
 <br>
 
@@ -37,6 +37,15 @@ I always have openings for students. If you love to do research in building bett
 See [**Publication**](https://Gyiming.github.io/publications) for full list. 
 
 <br>
+
+--- 
+
+## News
+
+- October, 2023: I presented an invited talk **Building Efficient and Reliable Hardware for Autonomous Machines** at 1024 Coder Festival.
+- July, 2023: I joined ICT, CAS as an assistant professor. 
+- July, 2023: I graduated from CS @ UofR.
+- May, 2023: I organized **Computing System Design for Humanoid Robots Forum** at ICT, CAS. 
 
 ---
 
