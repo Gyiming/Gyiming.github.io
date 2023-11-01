@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /hobbies/index.html
+permalink: /prostu/index.html
 title: Hobbies
 ---
 
