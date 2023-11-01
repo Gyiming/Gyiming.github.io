@@ -40,14 +40,12 @@ See [**Publication**](https://Gyiming.github.io/publications) for full list.
 
 ---
 
-## News and Updates
+## Academic Services
 
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Tutorial on SoC Modeling and Infrastructure** at [ASPLOS 2019](https://www.cs.rochester.edu/horizon/socinfra-tutorial/), ISCA 2018 and IISWC 2018. 
+- **Publicity Chair of FastPath2021** at [ISPASS 2021](https://fastpath2020.github.io/FastPath2021/).
+- **Web Chair of RSS2:Workshop on Robustness and Safe Software 2.0** at [ASPLOS 2021, ASPLOS 2022](https://rss2workshop.github.io/)
+- **Reviewer of IEEE CAL, iScience, AAAI, ICCV, IISWC**
 
 <br>
 
