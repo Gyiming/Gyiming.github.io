@@ -15,6 +15,8 @@ title: Publications
 
 - [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao*, **Yiming Gan***, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br>60th Design Automation Conference (DAC)<br>
 
+- [An Energy Efficient and Runtime Reconfigurable Accelerator for Robotic Localization]()<br>Qiang liu, Yuhui Hao, Weizhuang Liu, Bo Yu, **Yiming Gan**, Jie Tang, Shao-Shan Liu, Yuhao Zhu.<br>IEEE Transcations on Computers<br>
+
   <br>
 
 ---
