@@ -4,7 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://gyiming.github.io/photo.png" class="floatpic" width="360" height="480">
 
 My name is **Yiming Gan (甘一鸣)**. I'm currently an assistant professor at Institute of Computing Technologies, Chinese Academy of Sciences. Before joining ICT, CAS, I gained my PhD degree from [CS Department, University of Rochester](https://www.cs.rochester.edu/). My PhD advisor is [Professor Yuhao Zhu](https://yuhaozhu.com/). 
 
