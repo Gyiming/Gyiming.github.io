@@ -33,8 +33,10 @@ title: Publications
 
 ## Reliability and Fault Tolerance
 
-- [Ptolemy: Architecture Support for Robust Deep Learning](https://gyiming.github.io/file/MICRO2020.pdf)<br>**Yiming Gan*** , Yuxian Qiu*, Jingwen Leng, Minyi Guo, and Yuhao Zhu.<br>53rd IEEE/ACM International Symposium on Microarchitecture (MICRO'2020)<br>
+- [Ptolemy: Architecture Support for Robust Deep Learning](https://gyiming.github.io/file/MICRO2020.pdf)<br>**Yiming Gan*** , Yuxian Qiu*, Jingwen Leng, Minyi Guo, and Yuhao Zhu.<br>53rd IEEE/ACM International Symposium on Microarchitecture (MICRO'2020)<br> 
+
 - [BRAUM: Analyzing and Protecting Autonomous Machine Software Stack](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>**Yiming Gan**, Paul Whatmough, Jingwen Leng, Bo Yu, Shaoshan Liu, Yuhao Zhu.<br>33rd IEEE International Symposium on Software Reliability Engineering (ISSRE-22)<br>
+
 - [Thales: Formulating and Estimating Architectural Vulnerability Factor for DNN Accelerators](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Abhishek Tyagi, **Yiming Gan**, Shaoshan Liu, Bo Yu, Paul Whatmough, Yuhao Zhu.<br>29th IEEE International Symposium on High-Performance Computer Architecture (HPCA-29)<br>
 
   <br>
