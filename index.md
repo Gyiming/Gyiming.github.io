@@ -27,7 +27,7 @@ I always have openings for students. If you love to do research in building bett
 
 ## Selected Publication
 
-- [Low-Latency Proactive Continuous Vision](https://gyiming.github.io/file/PACT2020.pdf)<br>**Yiming Gan**, Yuxian Qiu, Lele Chen, Jingwen Leng, and Yuhao Zhu.<br>29th International Conference on Parallel Architectures and Compilation Techniques (PACT'20)<br> <br><font color='red'> Best Paper Nomination </font><br>
+- [Low-Latency Proactive Continuous Vision](https://gyiming.github.io/file/PACT2020.pdf)<br>**Yiming Gan**, Yuxian Qiu, Lele Chen, Jingwen Leng, and Yuhao Zhu.<br>29th International Conference on Parallel Architectures and Compilation Techniques (PACT'20)<font color='red'> Best Paper Nomination </font><br> 
 - Network Cybersecurity
 - Applied Machine Learning
 
