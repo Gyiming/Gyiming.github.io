@@ -1,24 +1,19 @@
-title: Hanlin Cai
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
-description: Two roads diverged in woods, I took the one less traveled by.
+title: Yiming Gan
+# tagline: Here is personal website of Yiming Gan. Powered by Jekyll, based on the Minimal Mistakes theme.
+description: The Greater Fool.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://gyiming.github.io/
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Yiming Gan
+  avatar: photo.jpg
  # bio:
-  email: hanlin.cai@ieee.org
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: ganyiming@ict.ac.cn
+  cv: https://gyiming.github.io/file/.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  linkedin: https://www.linkedin.com/in/%E4%B8%80%E9%B8%A3-%E7%94%98-410a129b/
+  scholar: https://scholar.google.com/citations?user=d-1MZhIAAAAJ&hl=zh-CN
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -28,7 +23,6 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
