@@ -34,6 +34,7 @@ I always have openings for students. If you love to do research in building bett
 - [Thales: Formulating and Estimating Architectural Vulnerability Factor for DNN Accelerators](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Abhishek Tyagi, **Yiming Gan**, Shaoshan Liu, Bo Yu, Paul Whatmough, Yuhao Zhu.<br><br>29th IEEE International Symposium on High-Performance Computer Architecture (HPCA-29)<br>
 - [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao*, **Yiming Gan***, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br><br>60th Design Automation Conference (DAC)<br>
 
+See [**Publication**](https://Gyiming.github.io/publications) for full list. 
 
 <br>
 
