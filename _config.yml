@@ -7,7 +7,7 @@ url: https://gyiming.github.io/
 # Owner/author information
 owner:
   name: Yiming Gan
-  avatar: photo.jpg
+  avatar: photo.png
  # bio:
   email: ganyiming@ict.ac.cn
   cv: https://gyiming.github.io/file/.pdf
@@ -36,12 +36,9 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Fundings
-    url: /fundings/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
