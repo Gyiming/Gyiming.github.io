@@ -6,22 +6,20 @@ layout: page
 
 <img src="https://gyiming.github.io/photo.png" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+My name is **Yiming Gan (甘一鸣)**. I'm currently an assistant professor at Institute of Computing Technologies, Chinese Academy of Sciences. Before joining ICT, CAS, I gained my PhD degree from [CS Department, University of Rochester](https://www.cs.rochester.edu/). My PhD advisor is [Professor Yuhao Zhu](https://yuhaozhu.com/). 
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
+I do research in computer architecture, with emphasis on autonomous machines, including robots, autonomous vehicles and drones. I believe this is an exciting domain which may fundamentally change people's life. My [research page](https://Gyiming.github.io) has more to offer. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I always have openings for students. If you love to do research in building better software and hardware for next generation robots, and know how to program, send me an email at: ganyiming@ict.ac.cn. [Potential Students](https://Gyiming.github.io) has more to offer. 
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
+- **Sep 2012 - July 2016:** Beijing Institute of Technology 
+- **Sep 2016 - May 2018:** University of California, Santa Barbara
+- **Sep 2018 - June 2023:** University of Rochester
 
 <br>
 
