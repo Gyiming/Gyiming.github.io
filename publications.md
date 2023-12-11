@@ -13,11 +13,11 @@ title: Publications
 
 - [Crescent: Taming Memory Irregularities for Accelerating Deep Point Cloud Analytics]()<br>Yu Feng, Gunnar Hammonds, **Yiming Gan**, Yuhao Zhu. <br> 49th International Symposium on Computer Architecture (ISCA'2022)<br>
 
-- [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao*, **Yiming Gan***, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br>60th Design Automation Conference (DAC)<br>
+- [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao<sup>1<sup>, **Yiming Gan**<sup>1<sup>, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br>60th Design Automation Conference (DAC)<br>
 
 - [An Energy Efficient and Runtime Reconfigurable Accelerator for Robotic Localization]()<br>Qiang liu, Yuhui Hao, Weizhuang Liu, Bo Yu, **Yiming Gan**, Jie Tang, Shao-Shan Liu, Yuhao Zhu.<br>IEEE Transcations on Computers<br>
 
-- [ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications]()<br>Yuhui Hao*, **Yiming Gan***, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.<br>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) <br>
+- [ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications]()<br>Yuhui Hao<sup>1<sup>, **Yiming Gan**<sup>1<sup>, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.<br>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) <br>
 
   <br>
 
