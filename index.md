@@ -33,7 +33,8 @@ I always have openings for students. If you love to do research in building bett
 - [Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines](https://gyiming.github.io/file/hpca2021.pdf)<br>**Yiming Gan** , Bo Yu, Boyuan Tian, Leimeng Xu, Wei Hu, Shaoshan Liu, Qiang Liu, Yanjun Zhang, Jie Tang and Yuhao Zhu.<br>27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)<br>
 - [BRAUM: Analyzing and Protecting Autonomous Machine Software Stack](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>**Yiming Gan**, Paul Whatmough, Jingwen Leng, Bo Yu, Shaoshan Liu, Yuhao Zhu.<br>33rd IEEE International Symposium on Software Reliability Engineering (ISSRE-22)<br>
 - [Thales: Formulating and Estimating Architectural Vulnerability Factor for DNN Accelerators](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Abhishek Tyagi, **Yiming Gan**, Shaoshan Liu, Bo Yu, Paul Whatmough, Yuhao Zhu.<br>29th IEEE International Symposium on High-Performance Computer Architecture (HPCA-29)<br>
-- [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao, **Yiming Gan**, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br>60th Design Automation Conference (DAC)<br>
+- [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao*, **Yiming Gan***, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br>60th Design Automation Conference (DAC)<br>
+- [ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications]()<br>Yuhui Hao*, **Yiming Gan***, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.<br>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) <br>
 
 See [**Publication**](https://Gyiming.github.io/publications) for full list. 
 
