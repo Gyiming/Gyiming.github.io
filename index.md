@@ -56,7 +56,7 @@ See [**Publication**](https://Gyiming.github.io/publications) for full list.
 - **Tutorial on SoC Modeling and Infrastructure** at [ASPLOS 2019](https://www.cs.rochester.edu/horizon/socinfra-tutorial/), ISCA 2018 and IISWC 2018. 
 - **Publicity Chair of FastPath2021** at [ISPASS 2021](https://fastpath2020.github.io/FastPath2021/).
 - **Web Chair of RSS2:Workshop on Robustness and Safe Software 2.0** at [ASPLOS 2021, ASPLOS 2022](https://rss2workshop.github.io/).
-- **Reviewer of IEEE CAL, iScience, AAAI, ICCV, IISWC**.
+- **Reviewer of IEEE CAL, IEEE TC, iScience, AAAI, ICCV, IISWC**.
 
 <br>
 
