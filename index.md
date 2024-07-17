@@ -43,7 +43,7 @@ See [**Publication**](https://Gyiming.github.io/publications) for full list.
 --- 
 
 ## News
-
+- July, 2024: I gave an invited talk **Robotic Computing: Finding Generalizability in Specialization and Opportunity of Design Automation in Manual Design** at Large-scale AI Chip Workshop, HKUST.
 - October, 2023: I presented an invited talk **Building Efficient and Reliable Hardware for Autonomous Machines** at 1024 Coder Festival.
 - July, 2023: I joined ICT, CAS as an assistant professor. 
 - July, 2023: I graduated from CS @ UofR.

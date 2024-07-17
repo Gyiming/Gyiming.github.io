@@ -31,6 +31,8 @@ title: Publications
 
 - [Low-Latency Proactive Continuous Vision](https://gyiming.github.io/file/PACT2020.pdf)<br>**Yiming Gan**, Yuxian Qiu, Lele Chen, Jingwen Leng, and Yuhao Zhu.<br>29th International Conference on Parallel Architectures and Compilation Techniques (PACT'20)<font color='red'> Best Paper Nomination </font><br> 
 
+- [HEX-SIM: Evaluating Multi-modal Large Language Models on Multi-chiplet NPUs]()<br>Xinquan Lin, Haobo Xu, Yinhe Han, and **Yiming Gan(通讯)**. <br>2024 IEEE International Symposium on Workload Characterization<br>
+
   <br>
 
 ---
