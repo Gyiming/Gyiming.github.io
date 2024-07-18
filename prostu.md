@@ -16,7 +16,7 @@ We welcome students with a diverse background even if your formative education d
 - Computer systems (e.g., computer architecture basics, FPGA experiences, compiler techniques, programming language design)
 - Robotic applications (e.g., localization, planning and control)
 - Computer vision (deep learning, reinforcement learning, foundation model)
-- Engineering math (Signal processing, dynamic systems, sparsity and compression, matrix method, optimizatio)
+- Engineering math (Signal processing, dynamic systems, sparsity and compression, matrix method, optimization)
 
 I encourage you to go over our [research interests](https://Gyiming.github.io/research) and send me an email. I encourage you to explain why your interests align with ours and how you can contribute. 
 <!-- Calendly inline widget end -->
