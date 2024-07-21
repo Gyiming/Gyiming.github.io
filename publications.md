@@ -33,6 +33,8 @@ title: Publications
 
 - [HEX-SIM: Evaluating Multi-modal Large Language Models on Multi-chiplet NPUs]()<br>Xinquan Lin, Haobo Xu, Yinhe Han, and **Yiming Gan(通讯)**. <br>2024 IEEE International Symposium on Workload Characterization<br>
 
+- [Benchmarking and Optimizing Federated Learning with Hardware-related Metrics]()<br>Kai Pan, Yapeng Tian, Yinhe Han, and **Yiming Gan(通讯)**. <br>The Thirty Fifth British Machine Vision Conference<br>
+
   <br>
 
 ---
