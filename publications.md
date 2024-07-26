@@ -27,13 +27,13 @@ title: Publications
 
 - [SVSoC:Speculative Vision Systems-on-a-Chip]()<br>**Yiming Gan** , Yuxian Qiu, Jingwen Leng, and Yuhao Zhu.<br>In Computer Architecture Letters (CAL),2019<br>
 
-- [TinyLSTMs: Efficient Neural Speech Enhancement for Hearing Aids]()<br>Igor Fedorov, Marko Stamenovic, Carl Jensen, Li-Chia Yang, Ari Mandell, **Yiming Gan** , Matthew Mattina, Paul N. Whatmough.<br>INTERSPEECH 2020. 
+- [TinyLSTMs: Efficient Neural Speech Enhancement for Hearing Aids]()<br>Igor Fedorov, Marko Stamenovic, Carl Jensen, Li-Chia Yang, Ari Mandell, **Yiming Gan** , Matthew Mattina, Paul N. Whatmough.<br>INTERSPEECH 2020
 
 - [Low-Latency Proactive Continuous Vision](https://gyiming.github.io/file/PACT2020.pdf)<br>**Yiming Gan**, Yuxian Qiu, Lele Chen, Jingwen Leng, and Yuhao Zhu.<br>29th International Conference on Parallel Architectures and Compilation Techniques (PACT'20)<font color='red'> Best Paper Nomination </font><br> 
 
-- [HEX-SIM: Evaluating Multi-modal Large Language Models on Multi-chiplet NPUs]()<br>Xinquan Lin, Haobo Xu, Yinhe Han, and **Yiming Gan(通讯)**. <br>2024 IEEE International Symposium on Workload Characterization<br>
+- [HEX-SIM: Evaluating Multi-modal Large Language Models on Multi-chiplet NPUs]()<br>Xinquan Lin, Haobo Xu, Yinhe Han, and **Yiming Gan(通讯)**. <br>2024 IEEE International Symposium on Workload Characterization (IISWC'2024)<br>
 
-- [Benchmarking and Optimizing Federated Learning with Hardware-related Metrics]()<br>Kai Pan, Yapeng Tian, Yinhe Han, and **Yiming Gan(通讯)**. <br>The Thirty Fifth British Machine Vision Conference<br>
+- [Benchmarking and Optimizing Federated Learning with Hardware-related Metrics]()<br>Kai Pan, Yapeng Tian, Yinhe Han, and **Yiming Gan(通讯)**. <br>The Thirty Fifth British Machine Vision Conference (BMVC-35)<br>
 
   <br>
 
