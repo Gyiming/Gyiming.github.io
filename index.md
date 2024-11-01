@@ -42,6 +42,7 @@ See [**Publication**](https://Gyiming.github.io/publications) for full list.
 --- 
 
 ## News
+- October, 2024: I will be serving in the program committee for ISCA 2025. 
 - August, 2024: We organize a special issue on Journal of Field Robotics with title "Embodied Artificial Intelligence for Field Robots
 ". We welcome submission. Please check the CFP [**here**](https://onlinelibrary.wiley.com/page/journal/15564967/homepage/call-for-papers/si-2024-000757).
 - July, 2024: I gave an invited talk **Robotic Computing: Finding Generalizability in Specialization and Opportunity of Design Automation in Manual Design** at Large-scale AI Chip Workshop, HKUST.
