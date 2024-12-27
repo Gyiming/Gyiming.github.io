@@ -37,4 +37,4 @@ My research focuses on reliability, which I believe is particularly crucial in a
 - Software-Hardware Co-Design for Fault Tolerance in Wafer-Scale Chips (**Hiring!! Prerequisite: Basic Computer Architecture and Compiler Courses**)
 
 
-If your interests align with our group and want to work with us, please read [this](https://Gyiming.github.io/)
+If your interests align with our group and want to work with us, please read [this](https://Gyiming.github.io/prostu/)
