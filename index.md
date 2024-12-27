@@ -55,7 +55,7 @@ See [**Publication**](https://Gyiming.github.io/publications) for full list.
 ---
 
 ## Funding Support
-- 国家自然科学基金委 (NSF China)，国家级青年人才项目，"面向大模型驱动的机器人的专用芯片设计" (Designing Chips for LLM-driven Robots), 项目负责人 (Leading PI)
+- 国家自然科学基金委 (NSF China)，国家级青年人才项目，"面向大模型驱动的机器人应用的专用芯片设计" (Designing Chips for LLM-driven Robots), 项目负责人 (Leading PI)
 - 科技部重点研发计划青年科学家 (National Key R&D Program of China)，"面向晶圆级集成缺陷的软硬件协同容错设计" (Software-Hardware Co-Design for Fault Tolerance in Wafer-Scale Chips), 项目负责人 (Leading PI)
 - 北京市科技计划 (Beijing Municipal Science and Technology Commission), "面向具身大模型的存算一体芯片研究" (Designing In-memory Computing Chips for Embodied Large Language Models), 课题负责人 (Co PI)
 - 中国科学院特别资助计划 (CAS), "面向智能机器人的专用芯片设计" (Designing Chips for Intelligent Robots)，项目负责人 (Leading PI)
