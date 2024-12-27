@@ -41,6 +41,8 @@ title: Publications
 
 ## Reliability and Fault Tolerance
 
+- [KINDRED: Heterogeneous Split-Lock Architecture for Safe Autonomous Machines]()<br><**Yiming Gan**>, Jingwen Leng, Yu Bo, Yuhao Zhu.<br>IEEE Transactions on Architecture and Code Optimization (IEEE TACO) <br>
+
 - [The Vulnerability-Adaptive Protection Paradigm Toward Reliable Autonomous Machines]()<br>Zishen Wan<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Shaoshan Liu, Arijit Raychowdhury, Yuhao Zhu<br>Communications of the ACM (CACM), 2024<br>
 
 - [VPP: The Vulnerability-Proportional Protection Paradigm Towards Reliable Autonomous Machines]()<br>Zishen Wan<sup>1</sup>, **Yiming Gan**<sup>1</sup>,  Bo Yu, Arijit Raychowdhury, Yuhao Zhu<br> ISCA 2023 workshop, 5th Domain Specific System Architecture (DOSSA-5)<br>

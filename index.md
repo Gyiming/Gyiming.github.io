@@ -27,6 +27,7 @@ I always have openings for PhD/Master students. If you love to do research in de
 ---
 
 ## Selected Publication
+- [KINDRED: Heterogeneous Split-Lock Architecture for Safe Autonomous Machines]()<br><**Yiming Gan**>, Jingwen Leng, Yu Bo, Yuhao Zhu.<br>IEEE Transactions on Architecture and Code Optimization (IEEE TACO) <br>
 - [ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications]()<br>Yuhui Hao<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.<br>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-2024) <br>
 - [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br>60th Design Automation Conference (DAC-2023)<br>
 - [Thales: Formulating and Estimating Architectural Vulnerability Factor for DNN Accelerators](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Abhishek Tyagi, **Yiming Gan**, Shaoshan Liu, Bo Yu, Paul Whatmough, Yuhao Zhu.<br>29th IEEE International Symposium on High-Performance Computer Architecture (HPCA-29)<br>
@@ -50,6 +51,14 @@ See [**Publication**](https://Gyiming.github.io/publications) for full list.
 - July, 2023: I joined ICT, CAS as an assistant professor. 
 - July, 2023: I graduated from CS @ UofR.
 - May, 2023: I organized **Computing System Design for Humanoid Robots Forum** at ICT, CAS. 
+
+---
+
+## Funding Support
+- 国家自然科学基金委 (NSF China)，国家级青年人才项目，"面向大模型驱动的机器人的专用芯片设计" (Designing Chips for LLM-driven Robots), 项目负责人 (Leading PI)
+- 科技部重点研发计划青年科学家 (National Key R&D Program of China)，"面向晶圆级集成缺陷的软硬件协同容错设计" (Software-Hardware Co-Design for Fault Tolerance in Wafer-Scale Chips), 项目负责人 (Leading PI)
+- 北京市科技计划 (Beijing Municipal Science and Technology Commission), "面向具身大模型的存算一体芯片研究" (Designing In-memory Computing Chips for Embodied Large Language Models), 课题负责人 (Co PI)
+- 中国科学院特别资助计划 (CAS), "面向智能机器人的专用芯片设计" (Designing Chips for Intelligent Robots)，项目负责人 (Leading PI)
 
 ---
 
