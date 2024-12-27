@@ -8,32 +8,31 @@ I'm leading a research group in the Institute of Computing Technology, Chinese A
 
 We currently have following research directions and projects:
 
+## Benchmarking Robotic Applications
+
+I believe one of the key factors for advancing research in robotic computing within our domain is the establishment of faithful benchmarking, which remains a significant challenge. The complexity of robotic systems necessitates benchmarking workloads that encompass algorithms from navigation, planning, and perception. Additionally, a robust benchmark must capture not only the individual algorithms but also their interconnections, primarily facilitated through ROS. Currently, we are actively working on several related projects to address these challenges.
+
+- [A real embodied AI robot system and corresponding workload characterization](https://github.com/RLC-Lab/DaDu_E)
+- An open reference, multi-node benchmarking suite that is used to evaluate robotics computing performance (Ongoing)
+- Workload characterization of real-time systems on advanced processors (Ongoing)
+- Workload characterization for ROS2 (**Hiring!! Prerequisite: Basic Computer Architecture and Compiler Courses**)
+
 ## Efficient Embodied AI Systems
 
-Robots will have the ability of thinking. The goal of this direction is to enable robots to accomplish long and complex tasks and finish it in real time. The fundamental blocks here are in two folds. First, although large laugnage models have shown ability to accomplish long horizon tasks, the gap between the output of language models and real physical world are huge. Second, the envolve of huge LLMs makes it impossible for the robots to finish its decision making chain in real time. We currently have several related projects.
+I think robots will have the ability of thinking. The goal of this direction is to enable robots to accomplish long and complex tasks and finish it in real time. The fundamental blocks here are in two folds. First, although large laugnage models have shown ability to accomplish long horizon tasks, the gap between the output of language models and real physical world are huge. Second, the envolve of huge LLMs makes it impossible for the robots to finish its decision making chain in real time. We currently have several related projects.
 
-- Large brain and small brain decoupling algorithm design. 
-- Reinforcement learning based skill learning. 
-- Cloud and edge collaborative processing for real time robotic applications. 
-- Workload characterization for robots.
-- Efficient inference chips for language models. 
+- [Accelerator design for vision language action models](https://arxiv.org/abs/2407.04292)
+- Humanoid robot control (Ongoing)
+- Multi-chiplet CPU design (**Hiring!! Prerequisite: Basic Computer Architecture and Compiler Courses**)
 
 ---
 
-## Humanoid Robot Control
+## Reliability
 
-Robots will have the ability of moving like humans. The goal of this direction is to build algorithms and dedicate accelerators for controlling humanoid robots. The problem lies in how to handle high degree of freedoms within dynamic environments, how to accelerate control algorithms and achieve real time. We currently have several projects.
+My research focuses on reliability, which I believe is particularly crucial in a world increasingly populated by robots. Ensuring reliability involves making software robust against various attacks and hardware resilient to different hazards. To address these challenges, we are currently working on two related projects.
 
-- Robust control algorithms.
-- Dedicated control accelerators. 
+- Reliability for Embodied AI System (Ongoing)
+- Software-Hardware Co-Design for Fault Tolerance in Wafer-Scale Chips (**Hiring!! Prerequisite: Basic Computer Architecture and Compiler Courses**)
 
----
-
-## Multi-agents Communication
-
-Robots will have the ability of communicating with each others. Ultimately we will enter an era where agents could communicate with each others. They will also share information with infrastructures. We currently have several project on this dimension.
-
-- Energy efficient federate learning. 
-- Selective encryption with compilation optimization. 
 
 If your interests align with our group and want to work with us, please read [this](https://Gyiming.github.io/)
