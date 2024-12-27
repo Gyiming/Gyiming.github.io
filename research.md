@@ -17,6 +17,8 @@ I believe one of the key factors for advancing research in robotic computing wit
 - Workload characterization of real-time systems on advanced processors (Ongoing)
 - Workload characterization for ROS2 (**Hiring!! Prerequisite: Basic Computer Architecture and Compiler Courses**)
 
+---
+
 ## Efficient Embodied AI Systems
 
 I think robots will have the ability of thinking. The goal of this direction is to enable robots to accomplish long and complex tasks and finish it in real time. The fundamental blocks here are in two folds. First, although large laugnage models have shown ability to accomplish long horizon tasks, the gap between the output of language models and real physical world are huge. Second, the envolve of huge LLMs makes it impossible for the robots to finish its decision making chain in real time. We currently have several related projects.
