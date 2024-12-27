@@ -13,7 +13,7 @@ title: Publications
 
 - [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br>60th Design Automation Conference (DAC)<br>
 
-- [An Energy Efficient and Runtime Reconfigurable Accelerator for Robotic Localization]()<br>Qiang liu, Yuhui Hao, Weizhuang Liu, Bo Yu, **Yiming Gan**, Jie Tang, Shao-Shan Liu, Yuhao Zhu.<br>IEEE Transcations on Computers<br>
+- [An Energy Efficient and Runtime Reconfigurable Accelerator for Robotic Localization]()<br>Qiang liu, Yuhui Hao, Weizhuang Liu, Bo Yu, **Yiming Gan**, Jie Tang, Shao-Shan Liu, Yuhao Zhu.<br>IEEE Transcations on Computers (IEEE TC)<br>
 
 - [Crescent: Taming Memory Irregularities for Accelerating Deep Point Cloud Analytics]()<br>Yu Feng, Gunnar Hammonds, **Yiming Gan**, Yuhao Zhu. <br> 49th International Symposium on Computer Architecture (ISCA'2022)<br>
 
@@ -51,7 +51,7 @@ title: Publications
 
 - [BRAUM: Analyzing and Protecting Autonomous Machine Software Stack](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>**Yiming Gan**, Paul Whatmough, Jingwen Leng, Bo Yu, Shaoshan Liu, Yuhao Zhu.<br>33rd IEEE International Symposium on Software Reliability Engineering (ISSRE-22)<br>
 
-- [Ptolemy: Architecture Support for Robust Deep Learning](https://gyiming.github.io/file/MICRO2020.pdf)<br>**Yiming Gan*** , Yuxian Qiu*, Jingwen Leng, Minyi Guo, and Yuhao Zhu.<br>53rd IEEE/ACM International Symposium on Microarchitecture (MICRO'2020)<br> 
+- [Ptolemy: Architecture Support for Robust Deep Learning](https://gyiming.github.io/file/MICRO2020.pdf)<br>**Yiming Gan<sup>1</sup>** , Yuxian Qiu<sup>1</sup>, Jingwen Leng, Minyi Guo, and Yuhao Zhu.<br>53rd IEEE/ACM International Symposium on Microarchitecture (MICRO'2020)<br> 
   <br>
 
 ---
