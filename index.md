@@ -9,7 +9,7 @@ My name is **Yiming Gan (甘一鸣)**. I'm currently an assistant professor at I
 
 I do research in computer architecture, with emphasis on autonomous machines, including robots, autonomous vehicles and drones. I believe this is an exciting domain which may fundamentally change people's life. [**Research**](https://Gyiming.github.io/research) has more to offer. 
 
-I always have openings for PhD/Master students. If you love to do research in designing chips, building better software and hardware for next generation robots, and know how to program, send me an email at: ganyiming@ict.ac.cn. [**Prospective Students**](https://Gyiming.github.io/prostu) has more to offer. 
+I always have openings for PhD/Master students, and **one opening for Postdoc** in 2025. If you love to do research in designing chips, building better software and hardware for next generation robots, and know how to program, send me an email at: ganyiming@ict.ac.cn. [**Prospective Students**](https://Gyiming.github.io/prostu) has more to offer. 
 
 <br>
 

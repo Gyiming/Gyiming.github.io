@@ -13,9 +13,9 @@ title: Group
 ## Master Student
 
 - **Kai Pan** Benchmarking Robotic Applications **(BMVC24)**.
-- **Xinquan Lin** Simulator Design **(IISWC24)**.
-- **Wenhao Sun** Reliable AI for EDA.
-- **Yiyang Huang** LLM for Robotics.
+- **Xinquan Lin** Multi-Chiplet Simulator Design **(IISWC24)**.
+- **Wenhao Sun** Benchmarking Real-time Workloads.
+- **Yiyang Huang** Reliability and Safety in Embodied AI.
 - **Zixuan Wang** Humanoid Robot Control.
 
 <br>
