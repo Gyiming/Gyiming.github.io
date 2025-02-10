@@ -8,14 +8,17 @@ title: Group
 
 - **Guoshuai Geng** HLS for Robotic Applications.
 - **Yuhui Hao** Accelerator Design for Humanoid Robot Control **(TC, DAC23, ASPLOS24)**.
-- **Sai Hou** Embodied AI Robot System Design.
 
 ## Master Student
 
 - **Kai Pan** Benchmarking Robotic Applications **(BMVC24)**.
 - **Xinquan Lin** Multi-Chiplet Simulator Design **(IISWC24)**.
-- **Wenhao Sun** Benchmarking Real-time Workloads.
+- **Wenhao Sun** Benchmarking Real-time Workloads **(ICRA2025)**.
 - **Yiyang Huang** Reliability and Safety in Embodied AI.
-- **Zixuan Wang** Humanoid Robot Control.
+- **Zixuan Wang** Humanoid Robot Control **(ICRA2025)**.
+
+## Alumni 
+
+- **Sai Hou** Embodied AI Robot System Design **(ICRA2025)**. Now PhD @ Beijing Institute of Technology.
 
 <br>

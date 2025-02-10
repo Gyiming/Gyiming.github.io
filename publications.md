@@ -25,7 +25,9 @@ title: Publications
 
 ---
 
-## Machine Learning and Continuous Vision
+## Robotic Applications and Algorithms
+
+-[KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems]()<br>Zixuan Wang, Bo Yu, Junzhe Zhao, Wenhao Sun, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, **Yiming Gan(通讯)**. <br>IEEE International Conference on Robotics and Automation (ICRA-2025)<br> 
 
 - [Benchmarking and Optimizing Federated Learning with Hardware-related Metrics]()<br>Kai Pan, Yapeng Tian, Yinhe Han, and **Yiming Gan(通讯)**. <br>The Thirty Fifth British Machine Vision Conference (BMVC-35)<br>
 
@@ -41,7 +43,7 @@ title: Publications
 
 ## Reliability and Fault Tolerance
 
-- [KINDRED: Heterogeneous Split-Lock Architecture for Safe Autonomous Machines]()<br>**Yiming Gan**, Jingwen Leng, Yu Bo, Yuhao Zhu.<br>IEEE Transactions on Architecture and Code Optimization (IEEE TACO) <br>
+- [KINDRED: Heterogeneous Split-Lock Architecture for Safe Autonomous Machines]()<br>**Yiming Gan**, Jingwen Leng, Yu Bo, Yuhao Zhu.<br>ACM Transactions on Architecture and Code Optimization (ACM TACO) <br>
 
 - [The Vulnerability-Adaptive Protection Paradigm Toward Reliable Autonomous Machines]()<br>Zishen Wan<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Shaoshan Liu, Arijit Raychowdhury, Yuhao Zhu<br>Communications of the ACM (CACM), 2024<br>
 

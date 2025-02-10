@@ -27,7 +27,7 @@ I always have openings for PhD/Master students, and **one opening for Postdoc** 
 ---
 
 ## Selected Publication
-- [KINDRED: Heterogeneous Split-Lock Architecture for Safe Autonomous Machines]()<br>**Yiming Gan**, Jingwen Leng, Yu Bo, Yuhao Zhu.<br>IEEE Transactions on Architecture and Code Optimization (IEEE TACO) <br>
+- [KINDRED: Heterogeneous Split-Lock Architecture for Safe Autonomous Machines]()<br>**Yiming Gan**, Jingwen Leng, Yu Bo, Yuhao Zhu.<br>ACM Transactions on Architecture and Code Optimization (IEEE TACO) <br>
 - [ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications]()<br>Yuhui Hao<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.<br>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-2024) <br>
 - [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br>60th Design Automation Conference (DAC-2023)<br>
 - [Thales: Formulating and Estimating Architectural Vulnerability Factor for DNN Accelerators](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Abhishek Tyagi, **Yiming Gan**, Shaoshan Liu, Bo Yu, Paul Whatmough, Yuhao Zhu.<br>29th IEEE International Symposium on High-Performance Computer Architecture (HPCA-29)<br>
