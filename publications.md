@@ -27,7 +27,7 @@ title: Publications
 
 ## Robotic Applications and Algorithms
 
--[KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems]()<br>Zixuan Wang, Bo Yu, Junzhe Zhao, Wenhao Sun, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, **Yiming Gan(通讯)**. <br>IEEE International Conference on Robotics and Automation (ICRA-2025)<br> 
+- [KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems]()<br>Zixuan Wang, Bo Yu, Junzhe Zhao, Wenhao Sun, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, **Yiming Gan(通讯)**. <br>IEEE International Conference on Robotics and Automation (ICRA-2025)<br> 
 
 - [Benchmarking and Optimizing Federated Learning with Hardware-related Metrics]()<br>Kai Pan, Yapeng Tian, Yinhe Han, and **Yiming Gan(通讯)**. <br>The Thirty Fifth British Machine Vision Conference (BMVC-35)<br>
 
