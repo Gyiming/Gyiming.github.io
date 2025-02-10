@@ -7,9 +7,9 @@ title: Publications
 
 ## Dedicated Accelerators for Robotic Applications
 
-- [HEX-SIM: Evaluating Multi-modal Large Language Models on Multi-chiplet NPUs](https://gyiming.github.io/file/IISWC24)<br>Xinquan Lin, Haobo Xu, Yinhe Han, and **Yiming Gan(通讯)**. <br>2024 IEEE International Symposium on Workload Characterization (IISWC'2024)<br>[Code](https://github.com/jimrelief/HEX-SIM)
+- [HEX-SIM: Evaluating Multi-modal Large Language Models on Multi-chiplet NPUs](https://gyiming.github.io/file/IISWC24.pdf)<br>Xinquan Lin, Haobo Xu, Yinhe Han, and **Yiming Gan(通讯)**. <br>2024 IEEE International Symposium on Workload Characterization (IISWC'2024)<br>[Code](https://github.com/jimrelief/HEX-SIM)
 
-- [ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications](https://gyiming.github.io/file/asplos24)<br>Yuhui Hao<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.<br>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) <br>
+- [ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications](https://gyiming.github.io/file/asplos24.pdf)<br>Yuhui Hao<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.<br>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) <br>
 
 - [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br>60th Design Automation Conference (DAC)<br>
 
