@@ -27,7 +27,7 @@ I always have openings for PhD/Master students, and **one opening for Postdoc** 
 ---
 
 ## Selected Publication
-- [Corki: Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation]()<br>Yiyang Huang<sup>1</sup>, Yuhui Hao<sup>1</sup>, Bo Yu, Feng Yan, Yuxin Yang, Feng Min, Yinhe Han, Lin Ma, Shaoshan Liu, Qiang Liu, **Yiming Gan**. <br> 52nd International Symposium on Computer Architecture (ISCA'2022) <br>
+- [Corki: Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation](https://arxiv.org/html/2407.04292v1)<br>Yiyang Huang<sup>1</sup>, Yuhui Hao<sup>1</sup>, Bo Yu, Feng Yan, Yuxin Yang, Feng Min, Yinhe Han, Lin Ma, Shaoshan Liu, Qiang Liu, **Yiming Gan**. <br> 52nd International Symposium on Computer Architecture (ISCA'2025) <br>
 - [KINDRED: Heterogeneous Split-Lock Architecture for Safe Autonomous Machines]()<br>**Yiming Gan**, Jingwen Leng, Yu Bo, Yuhao Zhu.<br>ACM Transactions on Architecture and Code Optimization (ACM TACO) <br>
 - [ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications]()<br>Yuhui Hao<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.<br>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-2024) <br>
 - [BLITZCRANK: Factor Graph Accelerator for Motion Planning](https://gyiming.github.io/file/ISSRE-22-camera-ready.pdf)<br>Yuhui Hao<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.<br>60th Design Automation Conference (DAC-2023)<br>
