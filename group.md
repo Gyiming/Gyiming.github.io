@@ -7,13 +7,13 @@ title: Group
 ## PhD Student
 
 - **Guoshuai Geng** HLS for Robotic Applications.
-- **Yuhui Hao** Accelerator Design for Humanoid Robot Control **(TC, DAC23, ASPLOS24, ISCA25)**.
+- **Yuhui Hao** Accelerator Design for Humanoid Robot Control **(TC, DAC23, ASPLOS24, ISCA25,GLSVLSI25)**.
 
 ## Master Student
 
 - **Kai Pan** Benchmarking Robotic Applications **(BMVC24)**.
 - **Xinquan Lin** Multi-Chiplet Simulator Design **(IISWC24)**.
-- **Wenhao Sun** Benchmarking Real-time Workloads **(ICRA25)**.
+- **Wenhao Sun** Benchmarking Real-time Workloads **(ICRA25,GLSVLSI25)**.
 - **Yiyang Huang** Reliability and Safety in Embodied AI **(ISCA25)**.
 - **Zixuan Wang** Humanoid Robot Control **(ICRA2025)**.
 
