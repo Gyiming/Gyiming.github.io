@@ -7,7 +7,7 @@ title: Publications
 
 ## Dedicated Accelerators for Robotic Applications
 
-- [Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation](https://arxiv.org/html/2407.04292v1)<br>Yiyang Huang<sup>1</sup>, Yuhui Hao<sup>1</sup>, Bo Yu, Feng Yan, Yuxin Yang, Feng Min, Yinhe Han, Lin Ma, Shaoshan Liu, Qiang Liu, **Yiming Gan**. <br> 52nd International Symposium on Computer Architecture (ISCA'2025) <br>
+- [Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation](https://arxiv.org/html/2407.04292v1)<br>Yiyang Huang<sup>1</sup>, Yuhui Hao<sup>1</sup>, Bo Yu, Feng Yan, Yuxin Yang, Feng Min, Yinhe Han, Lin Ma, Shaoshan Liu, Qiang Liu, **Yiming Gan(通讯)**. <br> 52nd International Symposium on Computer Architecture (ISCA'2025) <br>
 
 - [HEX-SIM: Evaluating Multi-modal Large Language Models on Multi-chiplet NPUs](https://gyiming.github.io/file/IISWC-24.pdf)<br>Xinquan Lin, Haobo Xu, Yinhe Han, and **Yiming Gan(通讯)**. <br>2024 IEEE International Symposium on Workload Characterization (IISWC'2024)<br>[Code](https://github.com/jimrelief/HEX-SIM)
 
