@@ -57,7 +57,7 @@ title: Publications
 
 - [Ptolemy: Architecture Support for Robust Deep Learning](https://gyiming.github.io/file/MICRO2020.pdf)<br>**Yiming Gan<sup>1</sup>** , Yuxian Qiu<sup>1</sup>, Jingwen Leng, Minyi Guo, and Yuhao Zhu.<br>53rd IEEE/ACM International Symposium on Microarchitecture (MICRO'2020)<br> 
 
-- [Aphelios: A Selective Lock-step Neural Processing Unit Design]()<br>Wenhao Sun, Yuhui Hao, Yinhe Han, **Yiming Gan(通讯)**. <br> The 35th edition of Great Lakes Symposium on VLSI (GLSVLSI'2025)
+- [Aphelios: A Selective Lock-step Neural Processing Unit Design]()<br>Wenhao Sun, Yuhui Hao, Yinhe Han, **Yiming Gan(通讯)**. <br> The 35th edition of Great Lakes Symposium on VLSI (GLSVLSI'2025)<font color='red'> Best Paper Nomination </font><br> 
   <br>
 
 ---
