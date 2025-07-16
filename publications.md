@@ -45,6 +45,8 @@ title: Publications
 
 ## Reliability and Fault Tolerance
 
+- [Aphelios: A Selective Lock-step Neural Processing Unit Design]()<br>Wenhao Sun, Yuhui Hao, Yinhe Han, **Yiming Gan(通讯)**. <br> The 35th edition of Great Lakes Symposium on VLSI (GLSVLSI'2025)<font color='red'> Best Paper Nomination </font><br> 
+
 - [KINDRED: Heterogeneous Split-Lock Architecture for Safe Autonomous Machines]()<br>**Yiming Gan**, Jingwen Leng, Yu Bo, Yuhao Zhu.<br>ACM Transactions on Architecture and Code Optimization (ACM TACO) <br>
 
 - [The Vulnerability-Adaptive Protection Paradigm Toward Reliable Autonomous Machines]()<br>Zishen Wan<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Shaoshan Liu, Arijit Raychowdhury, Yuhao Zhu<br>Communications of the ACM (CACM), 2024<br>
@@ -57,7 +59,6 @@ title: Publications
 
 - [Ptolemy: Architecture Support for Robust Deep Learning](https://gyiming.github.io/file/MICRO2020.pdf)<br>**Yiming Gan<sup>1</sup>** , Yuxian Qiu<sup>1</sup>, Jingwen Leng, Minyi Guo, and Yuhao Zhu.<br>53rd IEEE/ACM International Symposium on Microarchitecture (MICRO'2020)<br> 
 
-- [Aphelios: A Selective Lock-step Neural Processing Unit Design]()<br>Wenhao Sun, Yuhui Hao, Yinhe Han, **Yiming Gan(通讯)**. <br> The 35th edition of Great Lakes Symposium on VLSI (GLSVLSI'2025)<font color='red'> Best Paper Nomination </font><br> 
   <br>
 
 ---
