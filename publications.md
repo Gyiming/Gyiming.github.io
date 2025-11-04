@@ -7,9 +7,9 @@ title: Publications
 
 ## Dedicated Accelerators for Robotic Applications
 
-- [ScaleGS: Closing the Gap between Real-time 3D Gaussian Splatting and Real-time XR Rendering]<br>Kaiyan Chang, **Yiming Gan(通讯)**, Wenlong Zhu, Kun Wang, Zhirong Chen, Yuan Cheng, Yinhe Han, Huawei Li, Ying Wang. <br> ACM Transactions on Architecture and Code Optimization (ACM TACO) <br> 
+- [ScaleGS: Closing the Gap between Real-time 3D Gaussian Splatting and Real-time XR Rendering]()<br>Kaiyan Chang, **Yiming Gan(通讯)**, Wenlong Zhu, Kun Wang, Zhirong Chen, Yuan Cheng, Yinhe Han, Huawei Li, Ying Wang. <br> ACM Transactions on Architecture and Code Optimization (ACM TACO) <br> 
 
-- [Unified and Efficient Factor Graph Accelerator Design for Robotic Optimization]<br>Qiang Liu, Yihao Hua, Yuhui Hao, Bo Yu, Shaoshan Liu, **Yiming Gan(通讯)**. <br> ACM Transactions on Architecture and Code Optimization (ACM TACO) <br>
+- [Unified and Efficient Factor Graph Accelerator Design for Robotic Optimization]()<br>Qiang Liu, Yihao Hua, Yuhui Hao, Bo Yu, Shaoshan Liu, **Yiming Gan(通讯)**. <br> ACM Transactions on Architecture and Code Optimization (ACM TACO) <br>
 
 - [Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation](https://arxiv.org/html/2407.04292v1)<br>Yiyang Huang<sup>1</sup>, Yuhui Hao<sup>1</sup>, Bo Yu, Feng Yan, Yuxin Yang, Feng Min, Yinhe Han, Lin Ma, Shaoshan Liu, Qiang Liu, **Yiming Gan(通讯)**. <br> 52nd International Symposium on Computer Architecture (ISCA'2025) <br>
 
