@@ -5,7 +5,7 @@ layout: page
 # Yiming Gan
 
 
-My name is **Yiming Gan (甘一鸣)**. I'm currently an assistant professor at Institute of Computing Technologies, Chinese Academy of Sciences. Before joining ICT, CAS, I received my PhD degree from [CS Department, University of Rochester](https://www.cs.rochester.edu/) in 2023 working with [Professor Yuhao Zhu](https://yuhaozhu.com/), my Master degree from [University of California, Santa Barbara](https://www.ece.ucsb.edu/) with [Professor Yuan Xie](https://ece.hkust.edu.hk/yuanxie) and my B.E degree from Beijing Institute of Technology. 
+My name is **Yiming Gan (甘一鸣)**. I'm currently an Associate Professor at Institute of Computing Technologies, Chinese Academy of Sciences. Before joining ICT, CAS, I received my PhD degree from [CS Department, University of Rochester](https://www.cs.rochester.edu/) in 2023 working with [Professor Yuhao Zhu](https://yuhaozhu.com/), my Master degree from [University of California, Santa Barbara](https://www.ece.ucsb.edu/) with [Professor Yuan Xie](https://ece.hkust.edu.hk/yuanxie) and my B.E degree from Beijing Institute of Technology. 
 
 I do research in computer architecture, with emphasis on autonomous machines, including robots, autonomous vehicles and drones. I believe this is an exciting domain which may fundamentally change people's life. [**Research**](https://Gyiming.github.io/research) has more to offer. 
 
@@ -44,6 +44,7 @@ See [**Publication**](https://Gyiming.github.io/publications) for full list.
 --- 
 
 ## News
+- November, 2025: Passed my tenure evaluation. 
 - January, 2025: Check out the open-source embodied AI framework we released [**here**](https://github.com/airs-cuhk/airship).
 - October, 2024: I will be serving in the program committee for ISCA 2025. 
 - August, 2024: We organize a special issue on Journal of Field Robotics with title "Embodied Artificial Intelligence for Field Robots
