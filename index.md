@@ -27,6 +27,7 @@ I always have openings for PhD/Master students, and **one opening for Postdoc** 
 ---
 
 ## Selected Publication
+- [Velkoz: Generating Accelerators for Rigid-Flexible Robots through Domain Specific High-level Synthesis](https://dl.acm.org/doi/abs/10.1145/3797482)<br>Guoshuai Geng<sup>1</sup>, Yuhui Hao<sup>1</sup>, Yinhe Han, Yu Feng, **Yiming Gan(通讯)**. <br> ACM Transactions on Design Automation of Electronic Systems (TODAES)<br>
 - [Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation](https://arxiv.org/html/2407.04292v1)<br>Yiyang Huang<sup>1</sup>, Yuhui Hao<sup>1</sup>, Bo Yu, Feng Yan, Yuxin Yang, Feng Min, Yinhe Han, Lin Ma, Shaoshan Liu, Qiang Liu, **Yiming Gan(通讯)**. <br> 52nd International Symposium on Computer Architecture (ISCA'2025) <br>
 - [KINDRED: Heterogeneous Split-Lock Architecture for Safe Autonomous Machines]()<br>**Yiming Gan**, Jingwen Leng, Yu Bo, Yuhao Zhu.<br>ACM Transactions on Architecture and Code Optimization (ACM TACO) <br>
 - [ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications]()<br>Yuhui Hao<sup>1</sup>, **Yiming Gan**<sup>1</sup>, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.<br>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-2024) <br>
