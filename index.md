@@ -27,6 +27,8 @@ I always have openings for PhD/Master students, and **one opening for Postdoc** 
 ---
 
 ## Selected Publication
+- [Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference]()<br> Zheng Liu, Zeyu Guo, Zihan Liu, Anbang Wu, Han Zhao, Fangxin Liu, Zhezhi He, Yinhe Han, Jingwen Leng, Minyi Guo, **Yiming Gan(通讯)**, Yu Feng.<br>59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)<br>
+- [UDYR: An Adaptive Accelerator for High-Performance Humanoid Robot Control]()<br>Yuhui Hao, Bo Yu, Shaoshan Liu, Yinhe Han, Yu Feng, **Yiming Gan(通讯)**. <br> 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)<br>
 - [Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning]()<br>Zixuan Wang, Huang Fang, Shaoan Wang, Yuanfei Luo, Heng Dong, Wei Li, **Yiming Gan(通讯)**. <br> Forty-Third International Conference on Machine Learning (ICML 2026)<br>
 - [Velkoz: Generating Accelerators for Rigid-Flexible Robots through Domain Specific High-level Synthesis](https://dl.acm.org/doi/abs/10.1145/3797482)<br>Guoshuai Geng<sup>1</sup>, Yuhui Hao<sup>1</sup>, Yinhe Han, Yu Feng, **Yiming Gan(通讯)**. <br> ACM Transactions on Design Automation of Electronic Systems (TODAES)<br>
 - [Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation](https://arxiv.org/html/2407.04292v1)<br>Yiyang Huang<sup>1</sup>, Yuhui Hao<sup>1</sup>, Bo Yu, Feng Yan, Yuxin Yang, Feng Min, Yinhe Han, Lin Ma, Shaoshan Liu, Qiang Liu, **Yiming Gan(通讯)**. <br> 52nd International Symposium on Computer Architecture (ISCA'2025) <br>

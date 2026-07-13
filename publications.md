@@ -6,6 +6,11 @@ title: Publications
 
 
 ## Dedicated Accelerators for Robotic Applications
+
+- [Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference]()<br> Zheng Liu, Zeyu Guo, Zihan Liu, Anbang Wu, Han Zhao, Fangxin Liu, Zhezhi He, Yinhe Han, Jingwen Leng, Minyi Guo, **Yiming Gan(通讯)**, Yu Feng.<br>59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)<br>
+
+- [UDYR: An Adaptive Accelerator for High-Performance Humanoid Robot Control]()<br>Yuhui Hao, Bo Yu, Shaoshan Liu, Yinhe Han, Yu Feng, **Yiming Gan(通讯)**. <br> 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)<br>
+
 - [Velkoz: Generating Accelerators for Rigid-Flexible Robots through Domain Specific High-level Synthesis](https://dl.acm.org/doi/abs/10.1145/3797482)<br>Guoshuai Geng<sup>1</sup>, Yuhui Hao<sup>1</sup>, Yinhe Han, Yu Feng, **Yiming Gan(通讯)**. <br> ACM Transactions on Design Automation of Electronic Systems (TODAES)<br>
 
 - [ScaleGS: Closing the Gap between Real-time 3D Gaussian Splatting and Real-time XR Rendering]()<br>Kaiyan Chang, **Yiming Gan(通讯)**, Wenlong Zhu, Kun Wang, Zhirong Chen, Yuan Cheng, Yinhe Han, Huawei Li, Ying Wang. <br> ACM Transactions on Architecture and Code Optimization (ACM TACO) <br> 
