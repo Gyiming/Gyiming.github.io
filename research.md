@@ -8,14 +8,12 @@ I'm leading a research group in the Institute of Computing Technology, Chinese A
 
 We currently have following research directions and projects:
 
-## Benchmarking Robotic Applications
+## AI for Chip Design
 
-I believe one of the key factors for advancing research in robotic computing within our domain is the establishment of faithful benchmarking, which remains a significant challenge. The complexity of robotic systems necessitates benchmarking workloads that encompass algorithms from navigation, planning, and perception. Additionally, a robust benchmark must capture not only the individual algorithms but also their interconnections, primarily facilitated through ROS. Currently, we are actively working on several related projects to address these challenges.
+I believe the traditional chip design process is under radical shift under the use of AI. With AI, we are able to move faster, while also need to care more about the resilience of the design. Finding a way of efficiently utilize AI in chip design, quantify their ability and improve the ability, is currently extremely interested to me.
 
-- [A real embodied AI robot system and corresponding workload characterization](https://github.com/RLC-Lab/DaDu_E)
-- An open reference, multi-node benchmarking suite that is used to evaluate robotics computing performance (Ongoing)
-- Workload characterization of real-time systems on advanced processors (Ongoing)
-- Workload characterization for ROS2 (**Hiring!! Prerequisite: Basic Computer Architecture and Compiler Courses**)
+- AI for Chip Design Arena (**Hiring!**)
+- Resilient AI for Chip Design
 
 ---
 
@@ -25,7 +23,8 @@ I think robots will have the ability of thinking. The goal of this direction is 
 
 - [Accelerator design for vision language action models](https://arxiv.org/abs/2407.04292)
 - Humanoid robot control (Ongoing)
-- Multi-chiplet CPU design (**Hiring!! Prerequisite: Basic Computer Architecture and Compiler Courses**)
+- Robotic GPU (Ongoing)
+- Hardwired Action Expert Accelerator (Ongoing)
 
 ---
 

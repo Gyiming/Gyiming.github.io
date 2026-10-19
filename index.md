@@ -7,7 +7,7 @@ layout: page
 
 My name is **Yiming Gan (甘一鸣)**. I'm currently an Associate Professor at Institute of Computing Technologies, Chinese Academy of Sciences. Before joining ICT, CAS, I received my PhD degree from [CS Department, University of Rochester](https://www.cs.rochester.edu/) in 2023 working with [Professor Yuhao Zhu](https://yuhaozhu.com/), my Master degree from [University of California, Santa Barbara](https://www.ece.ucsb.edu/) with [Professor Yuan Xie](https://ece.hkust.edu.hk/yuanxie) and my B.E degree from Beijing Institute of Technology. 
 
-I do research in computer architecture, with emphasis on autonomous machines, including robots, autonomous vehicles and drones. I believe this is an exciting domain which may fundamentally change people's life. [**Research**](https://Gyiming.github.io/research) has more to offer. 
+I do research in computer architecture, with emphasis on autonomous machines, including robots, autonomous vehicles and drones. I believe this is an exciting domain which may fundamentally change people's life. I now also work heavily in Ai for Chip Design. [**Research**](https://Gyiming.github.io/research) has more to offer. 
 
 I always have openings for PhD/Master students, and **one opening for Postdoc** in 2025. If you love to do research in designing chips, building better software and hardware for next generation robots, and know how to program, send me an email at: ganyiming@ict.ac.cn. [**Prospective Students**](https://Gyiming.github.io/prostu) has more to offer. 
 
@@ -66,12 +66,13 @@ See [**Publication**](https://Gyiming.github.io/publications) for full list.
 - 科技部重点研发计划青年科学家 (National Key R&D Program of China)，"面向晶圆级集成缺陷的软硬件协同容错设计" (Software-Hardware Co-Design for Fault Tolerance in Wafer-Scale Chips), 项目负责人 (Leading PI)
 - 北京市科技计划 (Beijing Municipal Science and Technology Commission), "面向具身大模型的存算一体芯片研究" (Designing In-memory Computing Chips for Embodied Large Language Models), 课题负责人 (Co PI)
 - 中国科学院特别资助计划 (CAS), "面向智能机器人的专用芯片设计" (Designing Chips for Intelligent Robots)，项目负责人 (Leading PI)
+- 北京市-小米联合重点基金, "基于RISC-V的领域定制芯片与编译栈协同设计研究" (Domain Specific Chip and Compiler Co-Design based on RISC-V ISA) (Leading PI)
 
 ---
 
 ## Academic Services
 
-- **Program Committee:** ISCA (2025, 2026), MICRO (2025), HPCA (2026), IISWC (2025).
+- **Program Committee:** ISCA (2025, 2026), MICRO (2025, 2026), HPCA (2026, 2027), IISWC (2025), SIGMETRIC (2026).
 - **Tutorial on SoC Modeling and Infrastructure** at [ASPLOS 2019](https://www.cs.rochester.edu/horizon/socinfra-tutorial/), ISCA 2018 and IISWC 2018. 
 - **Publicity Chair of FastPath2021** at [ISPASS 2021](https://fastpath2020.github.io/FastPath2021/).
 - **Web Chair of RSS2:Workshop on Robustness and Safe Software 2.0** at [ASPLOS 2021, ASPLOS 2022](https://rss2workshop.github.io/).
