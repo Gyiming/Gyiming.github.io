@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Yiming Gan · ICT, CAS</title>
+<meta name="description" content="Yiming Gan is an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences. His research spans computer architecture, accelerators for autonomous machines, and AI for chip design.">
+<meta property="og:type" content="profile">
+<meta property="og:title" content="Yiming Gan · ICT, CAS">
+<meta property="og:description" content="Associate Professor, Institute of Computing Technology, Chinese Academy of Sciences. Computer architecture for autonomous machines and AI for chip design.">
+<meta property="og:image" content="https://yiminggan.com/assets/img/portrait.jpg">
+<meta name="author" content="Yiming Gan">
+<meta name="theme-color" content="#f7f7f4">
+<link rel="canonical" href="https://yiminggan.com/">
+<meta property="og:url" content="https://yiminggan.com/">
+<meta property="og:site_name" content="Yiming Gan">
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Yiming Gan",
+  "alternateName": "甘一鸣",
+  "jobTitle": "Associate Professor",
+  "email": "mailto:ganyiming@ict.ac.cn",
+  "url": "https://yiminggan.com",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Institute of Computing Technology, Chinese Academy of Sciences"
+  },
+  "alumniOf": [
+    {"@type": "CollegeOrUniversity", "name": "University of Rochester"},
+    {"@type": "CollegeOrUniversity", "name": "University of California, Santa Barbara"},
+    {"@type": "CollegeOrUniversity", "name": "Beijing Institute of Technology"}
+  ],
+  "sameAs": [
+    "https://scholar.google.com/citations?user=d-1MZhIAAAAJ",
+    "https://github.com/Gyiming",
+    "https://www.linkedin.com/in/%E4%B8%80%E9%B8%A3-%E7%94%98-410a129b/"
+  ]
+}
+</script>
+<link rel="stylesheet" href="assets/css/style.css">
+<script>document.documentElement.classList.add('js');</script>
+</head>
+<body>
+
+<a class="skip-link" href="#about">Skip to content</a>
+
+<!-- Inline icon sprite -->
+<svg class="sprite" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+  <symbol id="i-mail" viewBox="0 0 16 16">
+    <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"/>
+  </symbol>
+  <symbol id="i-doc" viewBox="0 0 16 16">
+    <path d="M4 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.5L9.5 0H4Zm0 1h5v3.5a.5.5 0 0 0 .5.5H14v9a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1Zm6 .707L13.293 5H10V1.707ZM5 8.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5Zm.5 2.5a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1h-5Z"/>
+  </symbol>
+  <symbol id="i-scholar" viewBox="0 0 16 16">
+    <path d="M8 1 0 5l8 4 8-4-8-4ZM3 8.13v3.4l5 2.5 5-2.5v-3.4L8 10.75 3 8.13Zm-1 .31L0 7.5v3.75a.75.75 0 0 0 .75.75h.5A.75.75 0 0 0 2 11.25V8.44Z"/>
+  </symbol>
+  <symbol id="i-github" viewBox="0 0 16 16">
+    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/>
+  </symbol>
+  <symbol id="i-linkedin" viewBox="0 0 16 16">
+    <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146Zm4.943 12.248V6.169H2.542v7.225h2.401Zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016Zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4Z"/>
+  </symbol>
+  <symbol id="i-chip" viewBox="0 0 24 24">
+    <rect x="7" y="7" width="10" height="10" rx="1.2"/>
+    <rect x="10" y="10" width="4" height="4" rx=".4"/>
+    <path d="M9.5 3v4M14.5 3v4M9.5 17v4M14.5 17v4M3 9.5h4M3 14.5h4M17 9.5h4M17 14.5h4"/>
+  </symbol>
+</svg>
+
+<div class="layout">
+
+  <aside class="sidebar">
+    <div class="brand">
+      <span class="brand-name">Yiming Gan</span>
+      <span class="brand-cn">甘一鸣</span>
+    </div>
+
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <a class="tab" id="tab-about" role="tab" href="#about" data-tab="about" data-title="About" aria-controls="about" aria-selected="true">About</a>
+      <a class="tab" id="tab-publications" role="tab" href="#publications" data-tab="publications" data-title="Publications" aria-controls="publications" aria-selected="false" tabindex="-1">Publications</a>
+      <a class="tab" id="tab-research" role="tab" href="#research" data-tab="research" data-title="Research" aria-controls="research" aria-selected="false" tabindex="-1">Research</a>
+      <a class="tab" id="tab-team" role="tab" href="#team" data-tab="team" data-title="Team" aria-controls="team" aria-selected="false" tabindex="-1">Team</a>
+      <a class="tab" id="tab-students" role="tab" href="#students" data-tab="students" data-title="Prospective Students" aria-controls="students" aria-selected="false" tabindex="-1">Prospective Students</a>
+    </nav>
+
+    <div class="side-note">
+      <p class="side-note-title">Research areas</p>
+      <p>Computer architecture<br>Embodied AI systems<br>AI for chip design</p>
+    </div>
+
+    <div class="sidebar-foot">
+      <svg class="chip-icon" aria-hidden="true"><use href="#i-chip"/></svg>
+      <p>Institute of Computing Technology<br>Chinese Academy of Sciences</p>
+    </div>
+  </aside>
+
+  <main class="content" id="content">
+    <div class="content-inner">
+
+      <!-- ==================== ABOUT ==================== -->
+      <section tabindex="-1" class="section is-active" id="about" role="tabpanel" aria-labelledby="tab-about" data-section="about">
+
+        <header class="hero">
+          <div class="portrait">
+            <img src="assets/img/portrait.jpg" alt="Portrait of Yiming Gan" width="358" height="441">
+          </div>
+          <div class="hero-body">
+            <h1>Yiming Gan <span class="cn">甘一鸣</span></h1>
+            <p class="role">Associate Professor</p>
+            <p class="affil">
+              <a href="http://www.ict.ac.cn/">Institute of Computing Technology</a>,<br>
+              Chinese Academy of Sciences (ICT, CAS)<br>
+              Beijing, China
+            </p>
+            <ul class="links">
+              <li><a href="assets/cv/YimingGan-CV-2023.pdf"><svg><use href="#i-doc"/></svg>CV</a></li>
+              <li><a href="mailto:ganyiming@ict.ac.cn"><svg><use href="#i-mail"/></svg>Email</a></li>
+              <li><a href="https://scholar.google.com/citations?user=d-1MZhIAAAAJ&amp;hl=zh-CN"><svg><use href="#i-scholar"/></svg>Google Scholar</a></li>
+              <li><a href="https://github.com/Gyiming"><svg><use href="#i-github"/></svg>GitHub</a></li>
+              <li><a href="https://www.linkedin.com/in/%E4%B8%80%E9%B8%A3-%E7%94%98-410a129b/"><svg><use href="#i-linkedin"/></svg>LinkedIn</a></li>
+            </ul>
+          </div>
+        </header>
+
+        <div class="hero-note">
+          <p class="motto">&ldquo;The Greater Fool.&rdquo;</p>
+          <p class="updated">Last updated: October 2026</p>
+        </div>
+
+        <h2>About</h2>
+        <p>
+          I am an Associate Professor at the <a href="http://www.ict.ac.cn/">Institute of Computing Technology (ICT)</a>,
+          <a href="https://www.cas.cn/">Chinese Academy of Sciences</a>. Before joining ICT, I received my Ph.D. in
+          Computer Science from the <a href="https://www.cs.rochester.edu/">University of Rochester</a> in 2023, advised by
+          <a href="https://yuhaozhu.com/">Prof. Yuhao Zhu</a>. I also received my M.S. from the
+          <a href="https://www.ucsb.edu/">University of California, Santa Barbara</a> and my B.E. from
+          <a href="https://www.bit.edu.cn/">Beijing Institute of Technology</a>.
+        </p>
+        <p>
+          My research is in computer architecture, with an emphasis on autonomous machines — robots, autonomous vehicles,
+          and drones. I believe this is an exciting domain that may fundamentally change people's lives. I also work
+          extensively on AI for chip design.
+        </p>
+        <p>
+          I am always looking for self-motivated students who love to explore new ideas and turn them into real systems.
+          If you enjoy designing chips and building better software and hardware for next-generation robots, and know how
+          to program, please write to me at <a href="mailto:ganyiming@ict.ac.cn">ganyiming@ict.ac.cn</a>.
+          See <a href="#students" data-tab="students">Prospective Students</a> for more details.
+        </p>
+
+        <h2>Contact</h2>
+        <ul class="plain">
+          <li><b>Email:</b> <a href="mailto:ganyiming@ict.ac.cn">ganyiming@ict.ac.cn</a></li>
+          <li><b>Address:</b> 6 Kexueyuan South Road, Haidian District, Beijing 100190, China</li>
+        </ul>
+
+        <h2>Research Interests</h2>
+        <ul>
+          <li>Computer architecture for autonomous machines</li>
+          <li>Domain-specific accelerators and hardware–software co-design</li>
+          <li>AI for chip design</li>
+          <li>Reliability and fault tolerance for robotic systems</li>
+        </ul>
+
+        <h2>News</h2>
+        <ul class="news">
+          <li><time datetime="2025-11">Nov 2025</time><span>Passed my tenure evaluation.</span></li>
+          <li><time datetime="2025-01">Jan 2025</time><span>Released AIRSHIP, an open-source embodied AI framework.</span></li>
+          <li><time datetime="2024-10">Oct 2024</time><span>Serving on the program committee of ISCA 2025.</span></li>
+          <li><time datetime="2024-08">Aug 2024</time><span>Co-organizing a <a href="https://onlinelibrary.wiley.com/page/journal/15564967/homepage/call-for-papers/si-2024-000757">JFR special issue</a> on embodied AI for field robots. Submissions are welcome.</span></li>
+          <li><time datetime="2024-07">Jul 2024</time><span>Gave an invited talk, “Robotic Computing: Finding Generalizability in Specialization and Opportunity of Design Automation in Manual Design,” at the Large-scale AI Chip Workshop, HKUST.</span></li>
+          <li><time datetime="2023-10">Oct 2023</time><span>Gave an invited talk, “Building Efficient and Reliable Hardware for Autonomous Machines,” at 1024 Coder Festival.</span></li>
+          <li><time datetime="2023-07">Jul 2023</time><span>Joined ICT, CAS as an assistant professor.</span></li>
+          <li><time datetime="2023-07">Jul 2023</time><span>Graduated with a Ph.D. from the CS Department, University of Rochester.</span></li>
+          <li><time datetime="2023-05">May 2023</time><span>Organized the Computing System Design for Humanoid Robots Forum at ICT, CAS.</span></li>
+        </ul>
+
+        <h2>Education</h2>
+        <ul class="timeline">
+          <li>
+            <span class="when">2018 – 2023</span>
+            <span class="what"><b>Ph.D. in Computer Science</b>, University of Rochester. Advisor: Prof. Yuhao Zhu.</span>
+          </li>
+          <li>
+            <span class="when">2016 – 2018</span>
+            <span class="what"><b>M.S.</b>, University of California, Santa Barbara.</span>
+          </li>
+          <li>
+            <span class="when">2012 – 2016</span>
+            <span class="what"><b>B.E.</b>, Beijing Institute of Technology.</span>
+          </li>
+        </ul>
+
+        <h2>Selected Funding</h2>
+        <ul class="funding">
+          <li>
+            Designing Chips for LLM-driven Robot Applications<br>
+            <span class="fund-meta">国家自然科学基金 · 国家级青年人才项目 · Leading PI</span>
+          </li>
+          <li>
+            Software–Hardware Co-Design for Fault Tolerance in Wafer-Scale Chips<br>
+            <span class="fund-meta">科技部重点研发计划 · 青年科学家 · Leading PI</span>
+          </li>
+          <li>
+            Designing In-memory Computing Chips for Embodied Large Language Models<br>
+            <span class="fund-meta">北京市科技计划 · Co-PI</span>
+          </li>
+          <li>
+            Designing Chips for Intelligent Robots<br>
+            <span class="fund-meta">中国科学院特别资助计划 · Leading PI</span>
+          </li>
+          <li>
+            AI-supported Domain-Specific Chip and Compiler Co-Design Based on RISC-V ISA<br>
+            <span class="fund-meta">北京市–小米联合重点基金 · Leading PI</span>
+          </li>
+        </ul>
+
+        <h2>Academic Service</h2>
+
+        <h3>Program Committee</h3>
+        <ul class="plain">
+          <li><b>ISCA</b> 2025, 2026</li>
+          <li><b>MICRO</b> 2025, 2026</li>
+          <li><b>HPCA</b> 2026, 2027</li>
+          <li><b>IISWC</b> 2025</li>
+          <li><b>SIGMETRICS</b> 2026</li>
+        </ul>
+
+        <h3>Organizing and Chair Roles</h3>
+        <ul class="plain">
+          <li>Publicity Chair, <a href="https://fastpath2020.github.io/FastPath2021/">FastPath 2021</a>, ISPASS 2021</li>
+          <li>Web Chair, <a href="https://rss2workshop.github.io/">RSS2: Workshop on Robustness and Safe Software 2.0</a>, ASPLOS 2021 and 2022</li>
+        </ul>
+
+        <h3>Tutorials</h3>
+        <ul class="plain">
+          <li>Tutorial on SoC Modeling and Infrastructure, <a href="https://www.cs.rochester.edu/horizon/socinfra-tutorial/">ASPLOS 2019</a>, ISCA 2018, IISWC 2018</li>
+        </ul>
+
+        <h3>Reviewing</h3>
+        <ul class="plain">
+          <li>IEEE Computer Architecture Letters (CAL)</li>
+          <li>IEEE Transactions on Computers (TC)</li>
+          <li>iScience</li>
+          <li>AAAI, ICCV, IISWC</li>
+        </ul>
+
+        <h2>Selected Publications</h2>
+        <ul class="pub-list compact">
+          <li class="pub">
+            <p class="pub-title">Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference</p>
+            <p class="pub-authors">Zheng Liu, Zeyu Guo, Zihan Liu, Anbang Wu, Han Zhao, Fangxin Liu, Zhezhi He, Yinhe Han, Jingwen Leng, Minyi Guo, <b>Yiming Gan</b><sup>†</sup>, Yu Feng.</p>
+            <p class="pub-venue"><b>MICRO 2026</b></p>
+          </li>
+          <li class="pub">
+            <p class="pub-title">UDyr: An Adaptive Accelerator for High-Performance Humanoid Robot Control</p>
+            <p class="pub-authors">Yuhui Hao, Bo Yu, Shaoshan Liu, Yinhe Han, Yu Feng, <b>Yiming Gan</b><sup>†</sup>.</p>
+            <p class="pub-venue"><b>MICRO 2026</b></p>
+          </li>
+          <li class="pub">
+            <p class="pub-title">Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning</p>
+            <p class="pub-authors">Zixuan Wang, Huang Fang, Shaoan Wang, Yuanfei Luo, Heng Dong, Wei Li, <b>Yiming Gan</b><sup>†</sup>.</p>
+            <p class="pub-venue"><b>ICML 2026</b></p>
+          </li>
+          <li class="pub">
+            <p class="pub-title"><a href="https://arxiv.org/html/2407.04292v1">Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation</a></p>
+            <p class="pub-authors">Yiyang Huang<sup>*</sup>, Yuhui Hao<sup>*</sup>, Bo Yu, Feng Yan, Yuxin Yang, Feng Min, Yinhe Han, Lin Ma, Shaoshan Liu, Qiang Liu, <b>Yiming Gan</b><sup>†</sup>.</p>
+            <p class="pub-venue"><b>ISCA 2025</b> — 52nd International Symposium on Computer Architecture</p>
+          </li>
+          <li class="pub">
+            <p class="pub-title"><a href="assets/papers/ORIANNA-ASPLOS24.pdf">ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications</a></p>
+            <p class="pub-authors">Yuhui Hao<sup>*</sup>, <b>Yiming Gan</b><sup>*</sup>, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.</p>
+            <p class="pub-venue"><b>ASPLOS 2024</b> — 29th International Conference on Architectural Support for Programming Languages and Operating Systems</p>
+          </li>
+        </ul>
+        <p class="more"><a href="#publications" data-tab="publications">Full list of publications →</a></p>
+
+      </section>
+
+      <!-- ==================== PUBLICATIONS ==================== -->
+      <section tabindex="-1" class="section" id="publications" role="tabpanel" aria-labelledby="tab-publications" data-section="publications" hidden>
+
+        <h2>Publications</h2>
+        <p class="legend"><sup>†</sup> corresponding author &nbsp;·&nbsp; <sup>*</sup> equal contribution</p>
+
+        <h3>Dedicated Accelerators for Robotic Applications</h3>
+        <ul class="pub-list">
+
+          <li class="pub">
+            <p class="pub-title">Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference</p>
+            <p class="pub-authors">Zheng Liu, Zeyu Guo, Zihan Liu, Anbang Wu, Han Zhao, Fangxin Liu, Zhezhi He, Yinhe Han, Jingwen Leng, Minyi Guo, <b>Yiming Gan</b><sup>†</sup>, Yu Feng.</p>
+            <p class="pub-venue">59th IEEE/ACM International Symposium on Microarchitecture (<b>MICRO 2026</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">UDyr: An Adaptive Accelerator for High-Performance Humanoid Robot Control</p>
+            <p class="pub-authors">Yuhui Hao, Bo Yu, Shaoshan Liu, Yinhe Han, Yu Feng, <b>Yiming Gan</b><sup>†</sup>.</p>
+            <p class="pub-venue">59th IEEE/ACM International Symposium on Microarchitecture (<b>MICRO 2026</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title"><a href="https://dl.acm.org/doi/abs/10.1145/3797482">Velkoz: Generating Accelerators for Rigid-Flexible Robots through Domain Specific High-level Synthesis</a></p>
+            <p class="pub-authors">Guoshuai Geng<sup>*</sup>, Yuhui Hao<sup>*</sup>, Yinhe Han, Yu Feng, <b>Yiming Gan</b><sup>†</sup>.</p>
+            <p class="pub-venue">ACM Transactions on Design Automation of Electronic Systems (<b>TODAES</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">ScaleGS: Closing the Gap between Real-time 3D Gaussian Splatting and Real-time XR Rendering</p>
+            <p class="pub-authors">Kaiyan Chang, <b>Yiming Gan</b><sup>†</sup>, Wenlong Zhu, Kun Wang, Zhirong Chen, Yuan Cheng, Yinhe Han, Huawei Li, Ying Wang.</p>
+            <p class="pub-venue">ACM Transactions on Architecture and Code Optimization (<b>TACO</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">Unified and Efficient Factor Graph Accelerator Design for Robotic Optimization</p>
+            <p class="pub-authors">Qiang Liu, Yihao Hua, Yuhui Hao, Bo Yu, Shaoshan Liu, <b>Yiming Gan</b><sup>†</sup>.</p>
+            <p class="pub-venue">ACM Transactions on Architecture and Code Optimization (<b>TACO</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title"><a href="https://arxiv.org/html/2407.04292v1">Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation</a></p>
+            <p class="pub-authors">Yiyang Huang<sup>*</sup>, Yuhui Hao<sup>*</sup>, Bo Yu, Feng Yan, Yuxin Yang, Feng Min, Yinhe Han, Lin Ma, Shaoshan Liu, Qiang Liu, <b>Yiming Gan</b><sup>†</sup>.</p>
+            <p class="pub-venue">52nd International Symposium on Computer Architecture (<b>ISCA 2025</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title"><a href="assets/papers/HEX-SIM-IISWC24.pdf">HEX-SIM: Evaluating Multi-modal Large Language Models on Multi-chiplet NPUs</a></p>
+            <p class="pub-authors">Xinquan Lin, Haobo Xu, Yinhe Han, <b>Yiming Gan</b><sup>†</sup>.</p>
+            <p class="pub-venue">IEEE International Symposium on Workload Characterization (<b>IISWC 2024</b>) &nbsp;·&nbsp; <a href="https://github.com/jimrelief/HEX-SIM">Code</a></p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title"><a href="assets/papers/ORIANNA-ASPLOS24.pdf">ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications</a></p>
+            <p class="pub-authors">Yuhui Hao<sup>*</sup>, <b>Yiming Gan</b><sup>*</sup>, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu.</p>
+            <p class="pub-venue">29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS 2024</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">BLITZCRANK: Factor Graph Accelerator for Motion Planning</p>
+            <p class="pub-authors">Yuhui Hao<sup>*</sup>, <b>Yiming Gan</b><sup>*</sup>, Bo Yu, Qiang Liu, Shaoshan Liu, Yuhao Zhu.</p>
+            <p class="pub-venue">60th Design Automation Conference (<b>DAC 2023</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">An Energy Efficient and Runtime Reconfigurable Accelerator for Robotic Localization</p>
+            <p class="pub-authors">Qiang Liu, Yuhui Hao, Weizhuang Liu, Bo Yu, <b>Yiming Gan</b>, Jie Tang, Shaoshan Liu, Yuhao Zhu.</p>
+            <p class="pub-venue">IEEE Transactions on Computers (<b>IEEE TC</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">Crescent: Taming Memory Irregularities for Accelerating Deep Point Cloud Analytics</p>
+            <p class="pub-authors">Yu Feng, Gunnar Hammonds, <b>Yiming Gan</b>, Yuhao Zhu.</p>
+            <p class="pub-venue">49th International Symposium on Computer Architecture (<b>ISCA 2022</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">Archytas: A Framework for Synthesizing and Dynamically Optimizing Accelerators for Robotic Navigation</p>
+            <p class="pub-authors">Weizhuang Liu<sup>*</sup>, Bo Yu<sup>*</sup>, <b>Yiming Gan</b>, Qiang Liu, Jie Tang, Shaoshan Liu, Yuhao Zhu.</p>
+            <p class="pub-venue">54th IEEE/ACM International Symposium on Microarchitecture (<b>MICRO 2021</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title"><a href="assets/papers/Eudoxus-HPCA21.pdf">Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines</a></p>
+            <p class="pub-authors"><b>Yiming Gan</b>, Bo Yu, Boyuan Tian, Leimeng Xu, Wei Hu, Shaoshan Liu, Qiang Liu, Yanjun Zhang, Jie Tang, Yuhao Zhu.</p>
+            <p class="pub-venue">27th IEEE International Symposium on High-Performance Computer Architecture (<b>HPCA 2021</b>)</p>
+          </li>
+
+        </ul>
+
+        <h3>Robotic Applications and Algorithms</h3>
+        <ul class="pub-list">
+
+          <li class="pub">
+            <p class="pub-title">Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning</p>
+            <p class="pub-authors">Zixuan Wang, Huang Fang, Shaoan Wang, Yuanfei Luo, Heng Dong, Wei Li, <b>Yiming Gan</b><sup>†</sup>.</p>
+            <p class="pub-venue">43rd International Conference on Machine Learning (<b>ICML 2026</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems</p>
+            <p class="pub-authors">Zixuan Wang, Bo Yu, Junzhe Zhao, Wenhao Sun, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, <b>Yiming Gan</b><sup>†</sup>.</p>
+            <p class="pub-venue">IEEE International Conference on Robotics and Automation (<b>ICRA 2025</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">Benchmarking and Optimizing Federated Learning with Hardware-related Metrics</p>
+            <p class="pub-authors">Kai Pan, Yapeng Tian, Yinhe Han, <b>Yiming Gan</b><sup>†</sup>.</p>
+            <p class="pub-venue">35th British Machine Vision Conference (<b>BMVC 2024</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title"><a href="assets/papers/PACT20.pdf">Low-Latency Proactive Continuous Vision</a></p>
+            <p class="pub-authors"><b>Yiming Gan</b>, Yuxian Qiu, Lele Chen, Jingwen Leng, Yuhao Zhu.</p>
+            <p class="pub-venue">29th International Conference on Parallel Architectures and Compilation Techniques (<b>PACT 2020</b>) <span class="badge">Best Paper Nomination</span></p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">TinyLSTMs: Efficient Neural Speech Enhancement for Hearing Aids</p>
+            <p class="pub-authors">Igor Fedorov, Marko Stamenovic, Carl Jensen, Li-Chia Yang, Ari Mandell, <b>Yiming Gan</b>, Matthew Mattina, Paul N. Whatmough.</p>
+            <p class="pub-venue">INTERSPEECH 2020</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">SVSoC: Speculative Vision Systems-on-a-Chip</p>
+            <p class="pub-authors"><b>Yiming Gan</b>, Yuxian Qiu, Jingwen Leng, Yuhao Zhu.</p>
+            <p class="pub-venue">IEEE Computer Architecture Letters (<b>CAL 2019</b>)</p>
+          </li>
+
+        </ul>
+
+        <h3>Reliability and Fault Tolerance</h3>
+        <ul class="pub-list">
+
+          <li class="pub">
+            <p class="pub-title">Aphelios: A Selective Lock-step Neural Processing Unit Design</p>
+            <p class="pub-authors">Wenhao Sun, Yuhui Hao, Yinhe Han, <b>Yiming Gan</b><sup>†</sup>.</p>
+            <p class="pub-venue">35th Great Lakes Symposium on VLSI (<b>GLSVLSI 2025</b>) <span class="badge">Best Paper Nomination</span></p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">KINDRED: Heterogeneous Split-Lock Architecture for Safe Autonomous Machines</p>
+            <p class="pub-authors"><b>Yiming Gan</b>, Jingwen Leng, Bo Yu, Yuhao Zhu.</p>
+            <p class="pub-venue">ACM Transactions on Architecture and Code Optimization (<b>TACO</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">The Vulnerability-Adaptive Protection Paradigm Toward Reliable Autonomous Machines</p>
+            <p class="pub-authors">Zishen Wan<sup>*</sup>, <b>Yiming Gan</b><sup>*</sup>, Bo Yu, Shaoshan Liu, Arijit Raychowdhury, Yuhao Zhu.</p>
+            <p class="pub-venue">Communications of the ACM (<b>CACM 2024</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title">VPP: The Vulnerability-Proportional Protection Paradigm Towards Reliable Autonomous Machines</p>
+            <p class="pub-authors">Zishen Wan<sup>*</sup>, <b>Yiming Gan</b><sup>*</sup>, Bo Yu, Arijit Raychowdhury, Yuhao Zhu.</p>
+            <p class="pub-venue">ISCA 2023 Workshop, 5th Domain Specific System Architecture (<b>DOSSA-5</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title"><a href="assets/papers/Thales-HPCA23.pdf">Thales: Formulating and Estimating Architectural Vulnerability Factor for DNN Accelerators</a></p>
+            <p class="pub-authors">Abhishek Tyagi, <b>Yiming Gan</b>, Shaoshan Liu, Bo Yu, Paul Whatmough, Yuhao Zhu.</p>
+            <p class="pub-venue">29th IEEE International Symposium on High-Performance Computer Architecture (<b>HPCA 2023</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title"><a href="assets/papers/BRAUM-ISSRE22.pdf">BRAUM: Analyzing and Protecting Autonomous Machine Software Stack</a></p>
+            <p class="pub-authors"><b>Yiming Gan</b>, Paul Whatmough, Jingwen Leng, Bo Yu, Shaoshan Liu, Yuhao Zhu.</p>
+            <p class="pub-venue">33rd IEEE International Symposium on Software Reliability Engineering (<b>ISSRE 2022</b>)</p>
+          </li>
+
+          <li class="pub">
+            <p class="pub-title"><a href="assets/papers/Ptolemy-MICRO20.pdf">Ptolemy: Architecture Support for Robust Deep Learning</a></p>
+            <p class="pub-authors"><b>Yiming Gan</b><sup>*</sup>, Yuxian Qiu<sup>*</sup>, Jingwen Leng, Minyi Guo, Yuhao Zhu.</p>
+            <p class="pub-venue">53rd IEEE/ACM International Symposium on Microarchitecture (<b>MICRO 2020</b>)</p>
+          </li>
+
+        </ul>
+
+        <h3>Thesis</h3>
+        <ul class="pub-list">
+          <li class="pub">
+            <p class="pub-title"><a href="https://horizon-lab.org/pubs/GanDissertation2023.pdf">Improving Fault Tolerance of Computing Systems for Autonomous Machines</a></p>
+            <p class="pub-authors"><b>Yiming Gan</b>.</p>
+            <p class="pub-venue">Ph.D. Dissertation, University of Rochester, 2023</p>
+          </li>
+        </ul>
+
+      </section>
+
+      <!-- ==================== RESEARCH ==================== -->
+      <section tabindex="-1" class="section" id="research" role="tabpanel" aria-labelledby="tab-research" data-section="research" hidden>
+
+        <h2>Research</h2>
+        <p>
+          I lead a research group at the Institute of Computing Technology, Chinese Academy of Sciences. We work on
+          autonomous machines — an exciting area that may reshape the way we live. We hope to build autonomous machines
+          that are more intelligent, more efficient, and more reliable. Our work spans new algorithms, new computer
+          systems, and, hopefully, real robots.
+        </p>
+
+        <h3>AI for Chip Design</h3>
+        <p>
+          I believe the traditional chip design process is under a radical shift with the use of AI. With AI, we can move
+          faster, while also needing to care more about the resilience of the design. Finding a way to efficiently use AI
+          in chip design, quantify its ability, and improve that ability is extremely interesting to me.
+        </p>
+        <ul>
+          <li>AI for Chip Design Arena <span class="badge badge-hiring">Hiring</span></li>
+          <li>Resilient AI for Chip Design</li>
+        </ul>
+
+        <h3>Efficient Embodied AI Systems</h3>
+        <p>
+          I think robots will have the ability to think. The goal of this direction is to enable robots to accomplish long
+          and complex tasks in real time. There are two fundamental challenges. First, although large language models have
+          shown the ability to accomplish long-horizon tasks, the gap between the output of language models and the real
+          physical world is huge. Second, the scale of large models makes it impossible for robots to finish their decision
+          chain in real time. We currently have several related projects.
+        </p>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2407.04292">Accelerator design for vision-language-action models</a></li>
+          <li>Humanoid robot control <span class="muted">(ongoing)</span></li>
+          <li>Robotic GPU <span class="muted">(ongoing)</span></li>
+          <li>Hardwired action expert accelerator <span class="muted">(ongoing)</span></li>
+        </ul>
+
+        <h3>Reliability</h3>
+        <p>
+          My research focuses on reliability, which I believe is particularly crucial in a world increasingly populated by
+          robots. Ensuring reliability involves making software robust against various attacks and hardware resilient to
+          different hazards. We are currently working on two related projects.
+        </p>
+        <ul>
+          <li>Reliability for embodied AI systems <span class="muted">(ongoing)</span></li>
+          <li>Software–hardware co-design for fault tolerance in wafer-scale chips <span class="badge badge-hiring">Hiring</span><br>
+            <span class="muted">Prerequisite: basic computer architecture and compiler courses</span></li>
+        </ul>
+
+        <div class="callout">
+          <p>If your interests align with our group and you would like to work with us, please read
+          <a href="#students" data-tab="students">Prospective Students</a>.</p>
+        </div>
+
+      </section>
+
+      <!-- ==================== TEAM ==================== -->
+      <section tabindex="-1" class="section" id="team" role="tabpanel" aria-labelledby="tab-team" data-section="team" hidden>
+
+        <h2>Team</h2>
+        <p>We are a group of students and researchers building efficient and reliable computing systems for autonomous machines.</p>
+
+        <h3>Ph.D. Students</h3>
+        <ul class="team-plain">
+          <li><b>Guoshuai Geng</b> — HLS for robotic applications (TODAES).</li>
+          <li><b>Yuhui Hao</b> — Accelerator design for humanoid robot control (TC, DAC'23, ASPLOS'24, ISCA'25, GLSVLSI'25, TACO'25, TODAES, MICRO'26).</li>
+          <li><b>Mingyu Shi</b> — Model-as-a-chip.</li>
+          <li><b>Xuhui Qiu</b> — RISC-V GPGPU.</li>
+        </ul>
+
+        <h3>Master's Students</h3>
+        <ul class="team-plain">
+          <li><b>Yiyang Huang</b> — Reliability and safety in embodied AI (ISCA'25).</li>
+          <li><b>Zixuan Wang</b> — Humanoid robot control (ICRA'25, ICML'26).</li>
+          <li><b>Gaoyuan Liu</b> — NPU virtualization.</li>
+          <li><b>Jiale Wei</b> — ROS 2 on RISC-V.</li>
+          <li><b>Zhuomin Liu</b> — RVV on RISC-V.</li>
+        </ul>
+
+        <h3>Alumni</h3>
+        <ul class="team-plain">
+          <li><b>Wenhao Sun</b> — Benchmarking real-time workloads (ICRA'25, GLSVLSI'25, JFR); now Ph.D. student at HKUST.</li>
+          <li><b>Sai Hou</b> — Embodied AI robot system design (ICRA'25); now Ph.D. student at Beijing Institute of Technology.</li>
+          <li><b>Kai Pan</b> — Benchmarking robotic applications (BMVC'24).</li>
+          <li><b>Xinquan Lin</b> — Multi-chiplet simulator design (IISWC'24); now Ph.D. student at ICT, CAS.</li>
+        </ul>
+
+        <p class="more"><a href="#students" data-tab="students">Interested in joining us? →</a></p>
+
+      </section>
+
+      <!-- ==================== PROSPECTIVE STUDENTS ==================== -->
+      <section tabindex="-1" class="section" id="students" role="tabpanel" aria-labelledby="tab-students" data-section="students" hidden>
+
+        <h2>Prospective Students</h2>
+        <p>
+          Much of my mentoring philosophy comes from <a href="https://yuhaozhu.com/prospective.html">my advisor</a>. It has
+          worked well between us, and I hope it will work well between us too. Generally, I am looking for students who are
+          self-motivated, love to explore new things, and love to turn their findings into real systems. The ideal
+          mentoring relationship should be interactive: I can help you with what I know, and you can expand my horizons
+          with what you know. I believe a good teacher should learn from their students, and a good student should teach
+          their advisor.
+        </p>
+
+        <h3>What we are looking for</h3>
+        <p>
+          We welcome students from diverse backgrounds, even if your formal education did not involve extensive
+          programming. We welcome students from areas such as physics, mathematics, and automation. It would be helpful if
+          you are experienced in one or more of the following:
+        </p>
+        <ul>
+          <li>Solid programming skills (Python, C++)</li>
+          <li>Computer systems (e.g., computer architecture basics, FPGA experience, compiler techniques, programming language design)</li>
+          <li>Robotic applications (e.g., localization, planning, and control)</li>
+          <li>Computer vision (deep learning, reinforcement learning, foundation models)</li>
+          <li>Engineering mathematics (signal processing, dynamic systems, sparsity and compression, matrix methods, optimization)</li>
+        </ul>
+
+        <h3>How to get in touch</h3>
+        <p>
+          I encourage you to read our <a href="#research" data-tab="research">research directions</a> first, then send me an
+          email. Please explain why your interests align with ours and how you can contribute. Attaching a CV, transcripts,
+          and any code or papers you are proud of is always helpful.
+        </p>
+
+        <div class="callout">
+          <p><b>Email:</b> <a href="mailto:ganyiming@ict.ac.cn">ganyiming@ict.ac.cn</a><br>
+          A subject line such as “Prospective Ph.D. student — Your Name” helps me find your message.</p>
+        </div>
+
+      </section>
+
+
+
+      <footer class="site-footer">
+        <span>© 2026 Yiming Gan · Institute of Computing Technology, CAS</span>
+        <span><a href="#about" data-tab="about">Back to top ↑</a></span>
+      </footer>
+
+    </div>
+  </main>
+</div>
+
+<script src="assets/js/site.js"></script>
+</body>
+</html>
