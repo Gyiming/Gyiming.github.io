@@ -1,0 +1,201 @@
+html {
+  background-color: #ffffff; 
+}
+
+img {
+  max-width: 100%;
+}
+
+body { 
+  font-family: Georgia, serif;
+  color: #000;
+  background-color: #ffffff; 
+  text-align: center;
+  width: 100%;
+  margin: 0;
+  min-width: 840px;
+  max-width: none;
+}
+
+
+*{
+   margin:0;
+   padding:0;
+}
+
+ul{
+  padding-left: 1.4em;
+}
+
+li{
+  padding-left: 1.4em;
+  margin-left:  2.4em;
+}
+
+
+table#middle{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+table#tlayout {
+  width: 100%;
+  min-height: 100vh;
+}
+
+#layout-menu {
+  position: relative;
+}
+
+.sidebar-logo {
+  position: absolute;
+  top: 50vh;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+}
+
+.sidebar-logo img {
+  height: 118px;
+  width: auto;
+  max-width: 70%;
+}
+
+#layout-content {
+  max-width: none;
+}
+
+.team-members {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  margin: 1em 0;
+}
+
+.team-member {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+  flex: 1 1 360px;
+  min-width: 0;
+  max-width: 600px;
+}
+
+.team-photo {
+  width: 110px;
+  height: 140px;
+  flex: 0 0 110px;
+  overflow: hidden;
+}
+
+.team-photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.team-member p {
+  flex: 1;
+}
+
+@media (max-width: 860px) {
+  body {
+    min-width: 0;
+    margin: 0;
+  }
+
+  table#tlayout,
+  table#tlayout > tbody,
+  table#tlayout > tbody > tr,
+  table#tlayout > tbody > tr > td {
+    display: block;
+    width: auto;
+  }
+
+  #layout-menu {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    width: auto;
+    white-space: normal;
+  }
+
+  div.menu-item {
+    display: inline-block;
+    margin-right: 1em;
+  }
+
+  .sidebar-logo {
+    position: static;
+    display: inline-block;
+    width: auto;
+    margin-left: 0.5em;
+    vertical-align: middle;
+    transform: none;
+  }
+
+  .sidebar-logo img {
+    height: 42px;
+    max-width: none;
+  }
+
+  table.imgtable,
+  table.imgtable tbody,
+  table.imgtable tr,
+  table.imgtable td {
+    display: block;
+  }
+
+  table.imgtable td {
+    padding-left: 0;
+  }
+
+  .team-members {
+    gap: 1.25em;
+  }
+
+  .team-member {
+    flex-basis: 100%;
+    max-width: none;
+  }
+
+  .team-photo {
+    width: 96px;
+    height: 120px;
+    flex-basis: 96px;
+  }
+}
+/*
+ *  following is to remove table border
+ */
+table#noborder {
+    border: none;
+}
+#noborder td {
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: left;
+    border: none;
+}
+#noborder tr.heading {
+    border-bottom: none;
+}
+
+table#noborder-mid {
+    border: none;
+    margin-left:auto;
+    margin-right:auto;
+}
+#noborder-mid td {
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: left;
+    border: none;
+}
+#noborder-mid tr.heading {
+    border-bottom: none;
+}
