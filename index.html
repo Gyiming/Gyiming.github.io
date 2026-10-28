@@ -17,6 +17,7 @@
   @media (max-width: 860px) { #layout-menu { width: auto; } }
   #layout-menu div.menu-item { padding-left: 12px; text-indent: -12px; }
   .award { color: #cc0000; }
+  .note { font-size: 92%; }
   #footer-text { color: #999; }
 </style>
 </head>
@@ -96,6 +97,16 @@
 			<li><p>AI for chip design</p></li>
 			<li><p>Reliability and fault tolerance for robotic systems</p></li>
 		</ul>
+
+		<h2>Selected Publications</h2>
+		<ul>
+			<li><p>Zheng Liu, Zeyu Guo, Zihan Liu, Anbang Wu, Han Zhao, Fangxin Liu, Zhezhi He, Yinhe Han, Jingwen Leng, Minyi Guo, <b>Yiming Gan</b><sup>&dagger;</sup>, Yu Feng, &ldquo;Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference,&rdquo; 59th IEEE/ACM International Symposium on Microarchitecture (<b>MICRO 2026</b>).</p></li>
+			<li><p>Yuhui Hao, Bo Yu, Shaoshan Liu, Yinhe Han, Yu Feng, <b>Yiming Gan</b><sup>&dagger;</sup>, &ldquo;UDyr: An Adaptive Accelerator for High-Performance Humanoid Robot Control,&rdquo; 59th IEEE/ACM International Symposium on Microarchitecture (<b>MICRO 2026</b>).</p></li>
+			<li><p>Zixuan Wang, Huang Fang, Shaoan Wang, Yuanfei Luo, Heng Dong, Wei Li, <b>Yiming Gan</b><sup>&dagger;</sup>, &ldquo;Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning,&rdquo; 43rd International Conference on Machine Learning (<b>ICML 2026</b>).</p></li>
+			<li><p>Yiyang Huang<sup>*</sup>, Yuhui Hao<sup>*</sup>, Bo Yu, Feng Yan, Yuxin Yang, Feng Min, Yinhe Han, Lin Ma, Shaoshan Liu, Qiang Liu, <b>Yiming Gan</b><sup>&dagger;</sup>, &ldquo;<a href="https://arxiv.org/html/2407.04292v1">Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation</a>,&rdquo; 52nd International Symposium on Computer Architecture (<b>ISCA 2025</b>).</p></li>
+			<li><p>Yuhui Hao<sup>*</sup>, <b>Yiming Gan</b><sup>*</sup>, Bo Yu, Qiang Liu, Yinhe Han, Zishen Wan, Shaoshan Liu, &ldquo;<a href="assets/papers/ORIANNA-ASPLOS24.pdf">ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications</a>,&rdquo; 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS 2024</b>).</p></li>
+		</ul>
+		<p class="note"><sup>&dagger;</sup> corresponding author; <sup>*</sup> equal contribution. The full list is on the <a href="#publications" data-tab="publications">Publications</a> page.</p>
 
 		<h2>News</h2>
 		<ul>
@@ -338,10 +349,14 @@
 		}
 	}
 
-	tabs.forEach(function (tab) {
-		tab.addEventListener('click', function (event) {
+	var triggers = Array.prototype.slice.call(document.querySelectorAll('a[data-tab]'));
+	triggers.forEach(function (trigger) {
+		trigger.addEventListener('click', function (event) {
 			event.preventDefault();
-			activate(tab.getAttribute('data-tab'), true);
+			activate(trigger.getAttribute('data-tab'), true);
+			if (!trigger.closest('#layout-menu')) {
+				window.scrollTo(0, 0);
+			}
 		});
 	});
 

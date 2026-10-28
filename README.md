@@ -108,13 +108,15 @@ yiming-site-v2/
 ## 与参考站的不同
 
 1. **Academic Service 不单独占标签**，放在 About 页里（按你的要求）。
-2. **Funding 和 Team 是纯文字列表**，没有卡片、头像、边框和动画（按你的要求）。
-3. 菜单只有 5 项：About / Publications / Research / Team / Prospective Students。
-4. 加了 `<meta name="viewport">`，手机端会走 `middle-layout.css` 自带的响应式规则；
+2. **首页保留了 Selected Publications**（参考站没有），放在 Research Interests 之后，
+   写法与 Publications 页一致，末尾链接可直接跳到 Publications。
+3. **Funding 和 Team 是纯文字列表**，没有卡片、头像、边框和动画（按你的要求）。
+4. 菜单只有 5 项：About / Publications / Research / Team / Prospective Students。
+5. 加了 `<meta name="viewport">`，手机端会走 `middle-layout.css` 自带的响应式规则；
    参考站没有 viewport，手机上实际是缩小的桌面版。
-5. 加了无 JS 兜底：脚本被禁用时所有板块依次展开，不会只剩 About。
-6. 侧栏底部用 ICT 官方 logo，favicon 也从它生成；社交图标取自参考站。
-7. 页脚保留一行版权和更新时间；参考站页脚是空的。
+6. 加了无 JS 兜底：脚本被禁用时所有板块依次展开，不会只剩 About。
+7. 侧栏底部用 ICT 官方 logo，favicon 也从它生成；社交图标取自参考站。
+8. 页脚保留一行版权和更新时间；参考站页脚是空的。
 
 ---
 
@@ -142,6 +144,9 @@ blogs/  backup/  mypaper/  LICENSE
 ```
 
 `file/`、`images/` 可留可删，新站不再引用。
+
+如果仓库里已经放过上一版（现代样式），再拷贝这一版时记得删掉旧的
+`assets/css/` 和 `assets/js/`，这两个目录已经不再被引用。
 
 ```bash
 git add -A
